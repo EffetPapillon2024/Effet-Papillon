@@ -92,63 +92,31 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
-
-* Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
-
-* Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
-
-* Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
-
-* Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
-* Ordinateur
-    * 1 ordinateur portable 
-    
-* Autre
-    * Tout autre élément pertinent
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
+> 
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [QLC +](https://www.qlcplus.org/)  
+* [Touch Designer](https://derivative.ca/UserGuide/TouchDesigner)
+* [Mad Mapper](https://madmapper.com/)
+* [Arduino](https://www.arduino.cc/)
+* [HyperHDR](https://github.com/awawa-dev/HyperHDR)
+* [Max Cycling 74](https://cycling74.com/downloads)
+* [Unity](https://unity.com/fr)
+* [FL Studio](https://www.image-line.com/fl-studio/)
+* [Wwise](https://www.audiokinetic.com/fr/products/wwise/)
+* [Visual Code Studio](https://code.visualstudio.com/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Enseignants, aide à la programmation et à l'intégration
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
-
-* Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
-
-* Petit studio
-    * Enregsitrement audio
-
+https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=9KEXQD
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
@@ -183,49 +151,57 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Raphaël Dumont**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant D**
+**Viktor Zhuravlev**
 - Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
+- Création des paysages sonores;
+- Intégration des sons dans l'espace physique;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+**William Morel**
+- Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
+- Installation et mise en place des casques de réalité virtuelle et des appareils de captations;
+- Programmation du casque de réalité virtuelle avec Touch Designer;
+- Programmation du mapping vidéo pour la projection.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant B**
+**Alexis Bolduc**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Création d'animation générative;
+- Création d'animation pour la projection;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+**Ryan Papanikolaou**
+- Technicien lumière
+- Création des lumières;
+- Intégration des lumières dans l'espace physique;
+- Programmation du module Touch Designer d'éclairage;
+
+Liste des tâches dans Git Hub:  
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+
+**Jasmine Lapierre**
+- Mimimeur professionnel
+- Création des espaces pour dormir;
+
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
