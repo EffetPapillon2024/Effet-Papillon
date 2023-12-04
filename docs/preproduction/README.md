@@ -114,7 +114,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Raphaël Dumont**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
@@ -164,8 +163,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMom
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Jasmine Lapierre**
-- Mimimeur professionnel
-- Création des espaces pour dormir;
+- Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
+- Installation et mise en place des casques de réalité virtuelle et des appareils de captations;
+- Programmation du casque de réalité virtuelle avec Touch Designer;
+- Programmation du mapping vidéo pour la projection.
 
 
 Liste des tâches dans Git Hub:  
