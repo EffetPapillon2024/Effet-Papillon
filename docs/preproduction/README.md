@@ -81,49 +81,22 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ![exemple de schema](medias/livestream_branchements.png)
 
 ## Matériel de scénographie requis
-
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+[Tableau des matériaux de scénographie](hhttps://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=szRvVb)
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+[Tableau liste de l'équipements requis](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=hHKzlu)
 
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
-> 
-
-* [QLC +](https://www.qlcplus.org/)  
-* [Touch Designer](https://derivative.ca/UserGuide/TouchDesigner)
-* [Mad Mapper](https://madmapper.com/)
-* [Arduino](https://www.arduino.cc/)
-* [HyperHDR](https://github.com/awawa-dev/HyperHDR)
-* [Max Cycling 74](https://cycling74.com/downloads)
-* [Unity](https://unity.com/fr)
-* [FL Studio](https://www.image-line.com/fl-studio/)
-* [Wwise](https://www.audiokinetic.com/fr/products/wwise/)
-* [Visual Code Studio](https://code.visualstudio.com/)
+[Tableaul logiciels requis](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=i2nGn4)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
-
-* TTP, location de matériel
-* Enseignants, aide à la programmation et à l'intégration
+[Tableau ressources humaines requises](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=BVRiow)
 
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
-https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=9KEXQD
+[Tableau spécifications des espaces nécessaires](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=7Pa9Kn)
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
-
-| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
-|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+[Tableau contraintes techniques](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=QugJAu)
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
