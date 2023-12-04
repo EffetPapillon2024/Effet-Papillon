@@ -58,7 +58,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Inventaire%20du%20contenu%20%C3%A0%20int%C3%A9grer.xlsx?d=we29c73707fd74d439673ef92ba75db59&csf=1&web=1&e=MYlRSW)
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+[Tableau exemples de réalisation](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Inventaire%20du%20contenu%20%C3%A0%20int%C3%A9grer.xlsx?d=we29c73707fd74d439673ef92ba75db59&csf=1&web=1&e=jFMlL1).
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
