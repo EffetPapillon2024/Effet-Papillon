@@ -46,29 +46,20 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 ![Exemple de cartographie 3](medias/interieur_casque.png)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-15 icônes de navigation (pour les utilisateur-trices)
-
-8 montages d'image
-
-3 paysages sonores
-
-5 vidéos d'animation 2D
-
-3 textes poétiques
-
-7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-
-...
-
-[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Inventaire%20du%20contenu%20%C3%A0%20int%C3%A9grer.xlsx?d=we29c73707fd74d439673ef92ba75db59&csf=1&web=1&e=MYlRSW)
+- 2 paysages sonores
+- 2 ambiances visuelles différentes
+- Récupération des données dans le casque
+- Contrôle d'éclairage
+- Projection
+- Interaction pour les gens en attente
 
 ## Univers artistique des éléments
-[Tableau exemples de réalisation](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Inventaire%20du%20contenu%20%C3%A0%20int%C3%A9grer.xlsx?d=we29c73707fd74d439673ef92ba75db59&csf=1&web=1&e=jFMlL1).
+
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
