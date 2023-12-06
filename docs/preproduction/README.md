@@ -38,9 +38,8 @@
 Montrer que ce que l'on ressent à l'intérieur est différent de ce que les gens voient.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Une installation VR où le participant, plongé dans un monde dystopique, voit l'horreur à travers son casque. Pendant ce temps, les spectateurs extérieurs découvrent un monde utopique. La divergence entre la vision individuelle et collective crée un contraste saisissant, suscitant la curiosité des spectateurs et les incitant à essayer le casque pour vivre l'expérience eux-mêmes. L'installation explore la subjectivité de la réalité et invite à réfléchir sur la perception individuelle.
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
