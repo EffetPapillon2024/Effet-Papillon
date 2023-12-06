@@ -42,8 +42,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 
 ## Tableau d'ambiance (*moodboard*)
-![Exemple de cartographie 3](medias/exterieur_casque.PNG)
-![Exemple de cartographie 3](medias/interieur_casque.PNG)
+![Exemple de cartographie 3](medias/exterieur_casque.png)
+![Exemple de cartographie 3](medias/interieur_casque.png)
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
