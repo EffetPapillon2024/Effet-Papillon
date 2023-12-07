@@ -86,7 +86,7 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+
 
 ## Matériel de scénographie requis
 [Tableau des matériaux de scénographie](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/Ef2frajDoDlOgnM39c6KDIwBUp3EiCAEkv_r2O8XiAzgpg?e=8mw3j9&nav=MTVfezI1RjU1MEI5LUE1RjMtNDRGNy04RTBGLUU0RjUyQzNGQUJCMH0)
