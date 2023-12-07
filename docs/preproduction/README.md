@@ -82,7 +82,7 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 ![exemple de plantation](medias/Plantation_02.jpg)
 
 ### Schéma de branchement 
-![exemple de plantation](medias/shema_branchement01.jpg)
+![exemple de plantation](medias/shema_branchement_01.jpg)
 
 
 ## Matériel de scénographie requis
