@@ -30,9 +30,8 @@
 ## Cartographie
 > Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![Cartographie](medias/Brainstorming.jpg)
+
 
 ## Intention de départ
 Montrer que ce que l'on ressent à l'intérieur est différent de ce que les gens voient.
