@@ -124,10 +124,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+[Onglet Projet](https://github.com/orgs/RealiteCroisee/projects/1/views/1)
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+[Onglet Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues)
 
 ## Rôles et responsabilités des membres de l'équipe
 
@@ -136,8 +136,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Création du module d'interprétation des données;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+[Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3ARaphBarniques) 
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3ARaphBarniques)
 
 **Viktor Zhuravlev**
 - Comité Technique et coordination technique (suivi du devis technique);
@@ -146,8 +146,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+[Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AV1ti0)
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AV1ti0)
 
 **William Morel**
 - Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
@@ -156,8 +156,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Programmation du mapping vidéo pour la projection.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+[Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AMorelWilliam+) 
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AMorelWilliam)
 
 **Alexis Bolduc**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
@@ -165,8 +165,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Création d'animation pour la projection;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+[issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AAlexisBolduc1)
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAlexisBolduc1)
 
 **Ryan Papanikolaou**
 - Technicien lumière
@@ -175,8 +175,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Programmation du module Touch Designer d'éclairage;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+[Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AAPapanik09) 
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAPapanik09)
 
 **Jasmine Lapierre**
 - Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
@@ -186,11 +186,12 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+[Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AJasmine-Lapierre)
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3A%22Jasmine-Lapierre%22)
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+[Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+no%3Aassignee)
+[Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=no%3Aassignee)
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
