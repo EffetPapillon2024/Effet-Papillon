@@ -28,8 +28,6 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
-
 ![Cartographie](medias/Brainstorming.jpg)
 
 
