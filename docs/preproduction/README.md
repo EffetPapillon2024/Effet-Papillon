@@ -68,6 +68,7 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 [Dans le casque](https://www.youtube.com/watch?v=c-4oNyNuu9U)
 [Dans le casque](https://www.youtube.com/watch?v=eW1RMWteuHo)
 [Extérieur du casque](https://www.youtube.com/watch?v=VoZybflbabQ)
+[Extérieur du casque](https://www.youtube.com/watch?v=9csQjBp7iPo)
 
 
 
