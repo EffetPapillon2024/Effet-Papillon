@@ -111,8 +111,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 
 ## Échéancier global
-Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+Étapes importantes du projet :  
+[https://github.com/tim-montmorency/66B-modele_de_projet/milestones](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/milestones)
 
 *Dates importantes :*
 - Première itération : lundi x novembre
