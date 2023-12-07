@@ -66,6 +66,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 [Transition](https://www.youtube.com/watch?v=qtPi0JvmWbs&list=PLKh_nRCyIl_r16eILxs3M8TDoXBQ1gu9O&index=29)
 [Dans le casque](https://www.youtube.com/watch?v=c-4oNyNuu9U)
+[Dans le casque](https://www.youtube.com/watch?v=eW1RMWteuHo)
+[Extérieur du casque](https://www.youtube.com/watch?v=VoZybflbabQ)
 
 
 
