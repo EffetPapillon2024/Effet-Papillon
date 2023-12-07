@@ -81,7 +81,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/Plantation_01.png)
+![exemple de plantation](medias/Plantation_02.png)
 
 ### Schéma de branchement 
 
