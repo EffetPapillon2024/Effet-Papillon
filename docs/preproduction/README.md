@@ -115,9 +115,9 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 [https://github.com/tim-montmorency/66B-modele_de_projet/milestones](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/milestones)
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Présentation itération prototype : Jeudi 29 février
+- Révision Finale : Jeudi 7 mars
+- Événement de présentation publique : Vendredi 15 mars
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
