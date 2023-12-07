@@ -134,6 +134,7 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3ARaphBarniques) 
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3ARaphBarniques)
 
 **Viktor Zhuravlev**
@@ -144,6 +145,7 @@ Liste des tâches dans Git Hub:
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AV1ti0)
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AV1ti0)
 
 **William Morel**
@@ -154,6 +156,7 @@ Liste des tâches dans Git Hub:
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AMorelWilliam+) 
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AMorelWilliam)
 
 **Alexis Bolduc**
@@ -163,6 +166,7 @@ Liste des tâches dans Git Hub:
 
 Liste des tâches dans Git Hub:  
 [issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AAlexisBolduc1)
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAlexisBolduc1)
 
 **Ryan Papanikolaou**
@@ -173,6 +177,7 @@ Liste des tâches dans Git Hub:
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AAPapanik09) 
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAPapanik09)
 
 **Jasmine Lapierre**
@@ -181,13 +186,14 @@ Liste des tâches dans Git Hub:
 - Programmation du casque de réalité virtuelle avec Touch Designer;
 - Programmation du mapping vidéo pour la projection.
 
-
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AJasmine-Lapierre)
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3A%22Jasmine-Lapierre%22)
 
 **Tâches pas encore attribuées**  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+no%3Aassignee)
+
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=no%3Aassignee)
 
 ## Moments des rencontres d'équipe
