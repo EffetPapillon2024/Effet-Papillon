@@ -138,7 +138,7 @@ Liste des tâches dans Git Hub:
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3ARaphBarniques)
 
 **Viktor Zhuravlev**
-- Comité Technique et coordination technique (suivi du devis technique);
+- Assurance qualité;
 - Création des paysages sonores;
 - Intégration des sons dans l'espace physique;
 - Installation de l'équipement dans l'espace physique.
@@ -149,9 +149,9 @@ Liste des tâches dans Git Hub:
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AV1ti0)
 
 **William Morel**
+- Comité Technique et coordination technique (suivi du devis technique);
 - Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
 - Installation et mise en place des casques de réalité virtuelle et des appareils de captations;
-- Programmation du casque de réalité virtuelle avec Touch Designer;
 - Programmation du mapping vidéo pour la projection.
 
 Liste des tâches dans Git Hub:  
@@ -163,6 +163,7 @@ Liste des tâches dans Git Hub:
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création d'animation générative;
 - Création d'animation pour la projection;
+- Programmation du casque de réalité virtuelle avec Touch Designer;
 
 Liste des tâches dans Git Hub:  
 [issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AAlexisBolduc1)
@@ -170,7 +171,9 @@ Liste des tâches dans Git Hub:
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAlexisBolduc1)
 
 **Ryan Papanikolaou**
-- Technicien lumière
+- Coordination générale de l'équipe;
+- Design Visuel;
+- Technicien lumière;
 - Création des lumières;
 - Intégration des lumières dans l'espace physique;
 - Programmation du module Touch Designer d'éclairage;
@@ -183,7 +186,7 @@ Liste des tâches dans Git Hub:
 **Jasmine Lapierre**
 - Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
 - Installation et mise en place des casques de réalité virtuelle et des appareils de captations;
-- Programmation du casque de réalité virtuelle avec Touch Designer;
+- Programmation de Unity;
 - Programmation du mapping vidéo pour la projection.
 
 Liste des tâches dans Git Hub:  
