@@ -39,9 +39,9 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 
 ## Tableau d'ambiance (*moodboard*)
-![Interieur du casque](medias/exterieur_casque.png)
+![Éléments décoratifs](medias/moodboard_decorations.jpg)
 
-![Exterieur du casque](medias/interieur_casque.png)
+![Projections_intéractives](medias/moodboard_externe.jpg)
 
 ## Scénario, scénarimage ou document audio/visuel
 
