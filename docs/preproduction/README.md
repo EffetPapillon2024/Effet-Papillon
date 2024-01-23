@@ -105,9 +105,7 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget.png)
-
-[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/Ef2frajDoDlOgnM39c6KDIwBUp3EiCAEkv_r2O8XiAzgpg?e=tISSaX&nav=MTVfe0MwOTc5MDU5LUUyNkUtNDAxQi1BRTQyLTE1MDlDQkRERENDOH0)
+[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=mxiJBH)
 
 
 ## Échéancier global
