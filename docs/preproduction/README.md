@@ -78,9 +78,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
+[Exemple 3D de plantation](https://codepen.io/Twinkie26/pen/OJqjbyo)
 
-![exemple de plantation](medias/Plantation_01.jpg)
-![exemple de plantation](medias/Plantation_02.jpg)
 
 ### Schéma de branchement 
 ![exemple de plantation](medias/shema_branchement_01.jpg)
