@@ -43,6 +43,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 ![Projections_intéractives](medias/moodboard_externe.jpg)
 
+![Projections_intéractives](medias/interieur_casque.png)
+
 ## Scénario, scénarimage ou document audio/visuel
 
 
