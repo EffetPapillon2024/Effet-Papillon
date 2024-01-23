@@ -59,7 +59,8 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 ## Univers artistique des éléments
 
 [Son calme](https://www.youtube.com/watch?v=UjpPg0VP1Ng)
-[Son sombre](https://www.youtube.com/watch?v=s0eq27oLYR4&list=PLKh_nRCyIl_r16eILxs3M8TDoXBQ1gu9O&index=41)
+[Son sombre](https://www.youtube.com/watch?v=1zkoprENdAo&list=PL6dF4LyI8Ll61AbDARhy4RDgx9h_Jc5E)
+[Voix transformées](https://www.youtube.com/watch?v=RuctYsaLals)
 
 [Art génératif](https://www.youtube.com/watch?v=qtPi0JvmWbs&list=PLKh_nRCyIl_r16eILxs3M8TDoXBQ1gu9O&index=29)
 
