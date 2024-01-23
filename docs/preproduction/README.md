@@ -84,7 +84,7 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 
 
 ### Schéma de branchement 
-![exemple de plantation](medias/shema_branchement_01.jpg)
+![branchemernt drawio](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/assets/94623626/53a1e828-e4d9-47e3-83af-b239cc067a91)
 
 
 ## Matériel de scénographie requis
