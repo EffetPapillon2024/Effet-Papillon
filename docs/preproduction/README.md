@@ -61,14 +61,6 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
 [Son sombre](https://www.youtube.com/watch?v=1zkoprENdAo&list=PL6dF4LyI8Ll61AbDARhy4RDgx9h_Jc5E)
 [Voix transformées](https://www.youtube.com/watch?v=RuctYsaLals)
 
-[Art génératif](https://www.youtube.com/watch?v=qtPi0JvmWbs&list=PLKh_nRCyIl_r16eILxs3M8TDoXBQ1gu9O&index=29)
-
-[Dans le casque](https://www.youtube.com/watch?v=c-4oNyNuu9U)
-[Dans le casque](https://www.youtube.com/watch?v=eW1RMWteuHo)
-
-[Extérieur du casque](https://www.youtube.com/watch?v=VoZybflbabQ)
-[Extérieur du casque](https://www.youtube.com/watch?v=9csQjBp7iPo)
-
 
 
 
