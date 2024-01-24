@@ -32,10 +32,10 @@
 
 
 ## Intention de départ
-Montrer que ce que l'on ressent à l'intérieur est différent de ce que les gens voient.
+L'effet papillon, de petites actions peuvent déclencher des conséquences imprévisibles à long terme.
 
 ## Synopsis
-Une installation VR où le participant, plongé dans un monde dystopique, voit l'horreur à travers son casque. Pendant ce temps, les spectateurs extérieurs découvrent un monde utopique. La divergence entre la vision individuelle et collective crée un contraste saisissant, suscitant la curiosité des spectateurs et les incitant à essayer le casque pour vivre l'expérience eux-mêmes. L'installation explore la subjectivité de la réalité et invite à réfléchir sur la perception individuelle.
+Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en soulignant la notion complexe de l'effet papillon. La maturation du fruit est une phase clé de l'installation, où les visiteurs découvrent les conséquences finales de leurs actions. La pomme résultante devient le point focal, représentant les retombées de choix apparemment minuscules sur un système complexe.
 
 
 ## Tableau d'ambiance (*moodboard*)
@@ -51,12 +51,11 @@ Une installation VR où le participant, plongé dans un monde dystopique, voit l
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 2 paysages sonores
-- 2 ambiances visuelles différentes
-- Récupération des données dans le casque
+- Paysages sonores
+- Ambiances visuelles
 - Contrôle d'éclairage
 - Projection
-- Interaction pour les gens en attente
+- Interaction
 
 ## Univers artistique des éléments
 
