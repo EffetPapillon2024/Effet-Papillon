@@ -39,11 +39,9 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
 
 
 ## Tableau d'ambiance (*moodboard*)
-![Éléments décoratifs](medias/moodboard_decorations.jpg)
+![Éléments décoratifs](medias/slide1.jpg)
 
-![Projections_intéractives](medias/moodboard_externe.jpg)
-
-![Projections_intéractives](medias/interieur_casque.png)
+![Projections_intéractives](medias/slide2.jpg)
 
 ## Scénario, scénarimage ou document audio/visuel
 
