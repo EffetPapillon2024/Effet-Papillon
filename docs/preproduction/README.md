@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Cartographie
-![Cartographie](medias/Brainstorming.jpg)
+![Cartographie](medias/cartographie.jpg)
 
 
 ## Intention de départ
