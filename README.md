@@ -4,4 +4,4 @@ Ce repo regroupe tout les documents, fichiers et journaux en lien avec le projet
 Dans le dossier **docs**, on retrouve:
 * La préproduction du projet;
 * Les journaux de création individuels de chaque membre de l'équipe;
-* La page web affichée sur le [site web TIM](https://tim-montmorency.com/2024/)
+* La page web affichée sur le [site web TIM](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
