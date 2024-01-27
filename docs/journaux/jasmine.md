@@ -19,11 +19,8 @@
 - Commencer la réflexion sur le design du logo et de la bannière de Crescentia.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/lapierre_s1_brainstorm.jpg)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -46,8 +43,8 @@ Mieux dormir avant les rencontres et bien manger pour m'aider à réfléchir et 
 
 
 ### Défis pour la prochaine semaine
-Coordonner la création de la bannière et du logo de Crescentia. 
-Participer à la répartition des tâches.
+- Coordonner la création de la bannière et du logo de Crescentia. 
+- Participer à la répartition des tâches.
 
 ---
 ## Semaine 2
