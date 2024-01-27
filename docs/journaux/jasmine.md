@@ -1,4 +1,4 @@
-# Journal de "Participant 5"
+# Journal de Jasmine Lapierre
 ![portrait du participant ](../web/medias/participants/pfp_jazzy.jpg)
 
 * [Semaine 1](#semaine-1)
