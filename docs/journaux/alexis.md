@@ -18,15 +18,11 @@
 - Trouver un projet cohérent et complet
 - Réflexion sur l'installation dans le petit studio 
 - Début de réflexion de la structure
-- Problème du poteau qui vient cacher unee partie de la projection
+- Problème du poteau qui vient cacher une partie de la projection
 - Test à l'aide d'un miroir et d'un projecteur
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![Brainstorm d'équipe](medias/bolduc_s1_brainstorm.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -35,10 +31,10 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+On a beaucoup brainstormer en équipe afin de bien détailler le projet et d'être sûr d'avoir une idée précise du résultat final, cependant il nous manquait un peu d'organisation qui nous aurait permis d'être plus efficace.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Une organisation plus clair et plus détaillé des tâches à effectuer en équipe.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -48,13 +44,10 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Je pense que l'on aurais pu avancer davantage si nous n'avions pas changer de projet mardi, mais désormais nous avons un projet cohérent.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Le défi principal de la semaine prochaine est la création de notre vidéo de présentation de notre projet. Pour ma part, je m'occuperais de rédiger le script et de monter cette vidéo. Il y a aussi des questions à répondre pour le jeudi artistique.
 
 ---
 ## Semaine 2
