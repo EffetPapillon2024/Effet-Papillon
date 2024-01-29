@@ -25,11 +25,11 @@
 - Création de la liste du matériels. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Test de la pole](docs/journaux/medias/grand_studio_setup_01.jpg)
+![Test de la pole](../docs/journaux/medias/grand_studio_setup_01.jpg)
 ou
-![Plan 2D de la structure dans son environnement](docs/journaux/medias/art_petit_studio.png)
+![Plan 2D de la structure dans son environnement](../docs/journaux/medias/art_petit_studio.png)
 ou
-![Plan 3D de la structure](docs/journaux/medias/grand_studio_setup_01.jpg)
+![Plan 3D de la structure](../docs/journaux/medias/grand_studio_setup_01.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
