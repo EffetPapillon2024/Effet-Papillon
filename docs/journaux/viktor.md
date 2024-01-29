@@ -51,7 +51,7 @@ Participer beaucoup plus aux discussions de groupe pour propeser des idées qui 
 Il fallait reconcepter tout le projet car l'idée de base n'était pas assez coherante, mais maitenant notre projet est vraiment plus claire.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Commencer à créer des objets sonores pour le projet, experimenter avec ambiances sonores, créer le banner et le logo pour le ensemble des projets de notre cohorte.
 
 ---
 ## Semaine 2
