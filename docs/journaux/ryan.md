@@ -24,7 +24,7 @@
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Détails du projet](../journaux/medias/papanik_sem.jpg)
 ou
-![Croquis de l'installation](../journaux/medias/papanik_sem_01.jp)
+![Croquis de l'installation](../journaux/medias/papanik_sem_01.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
