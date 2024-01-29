@@ -46,7 +46,7 @@ J'ai réussi à m'organiser pour avoir le temps de faire tout mes tests et de po
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
-- [] Assez
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
