@@ -130,6 +130,7 @@ Liste des tâches dans Git Hub:
 
 **Viktor Zhuravlev**
 - Assurance qualité;
+- Coordinateur son;
 - Création des paysages sonores;
 - Intégration des sons dans l'espace physique;
 - Installation de l'équipement dans l'espace physique.
