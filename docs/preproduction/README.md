@@ -57,7 +57,7 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
 
 ## Univers artistique des éléments
 
-[Ambience sonore](medias/son_test.wav)
+[Ambience sonore](medias/son_test.mov)
 
 
 
