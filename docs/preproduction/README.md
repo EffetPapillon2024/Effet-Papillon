@@ -69,7 +69,7 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
-![Exemple 3D de plantation](../preproduction/medias/stl_structure.stl)
+![Plan structure]()
 
 
 ### Schéma de branchement 
