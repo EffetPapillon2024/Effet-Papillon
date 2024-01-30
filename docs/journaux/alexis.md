@@ -52,6 +52,11 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- Arrangement final de la préproduction
+- Devoir pour le jeudi artistique
+- Test de projection double sur le mur
+- Écriture du script de la vidéo de préproduction
+
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
