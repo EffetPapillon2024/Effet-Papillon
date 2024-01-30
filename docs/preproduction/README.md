@@ -163,10 +163,8 @@ Liste des tâches dans Git Hub:
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAlexisBolduc1)
 
 **Ryan Papanikolaou**
-- Coordination générale de l'équipe;
-- Design Visuel;
-- Technicien lumière;
-- Création des lumières;
+- Artiste visuel;
+- Directeur lumière;
 - Intégration des lumières dans l'espace physique;
 - Programmation du module Touch Designer d'éclairage;
 
@@ -176,10 +174,8 @@ Liste des tâches dans Git Hub:
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAPapanik09)
 
 **Jasmine Lapierre**
-- Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
-- Installation et mise en place des casques de réalité virtuelle et des appareils de captations;
-- Programmation de Unity;
-- Programmation du mapping vidéo pour la projection.
+- Intégrateur (imaginer, créer et mettre en place les décors sur la scène);
+- Programmation du mapping vidéo pour la projection;
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AJasmine-Lapierre)
