@@ -58,11 +58,17 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
 ## Univers artistique des éléments
 ### Inspirations:
 [Ambience sonore générale](https://youtu.be/UjpPg0VP1Ng?si=2JolqL7jvhuFTfVv)
+
 [Pluie douce](https://youtu.be/hHGZ1QDpUKI?si=GXbNijXpZ_T_3IMO&t=33)
+
 [Eau qui coule](https://youtu.be/Z3m7HXeiHpg?si=mz4DdJicudAgLthR&t=1052)
+
 [Couches sonores qui s'ajoutent au fur et à mesure](https://youtu.be/a7RTOK4HEaE?si=4_yHDQySFOOmqsvE)
+
 [Bruits techno simulant la nature (bruits d'oiseaux, d'insectes, etc.)](https://youtu.be/UjpPg0VP1Ng?si=2JolqL7jvhuFTfVv&t=226)
+
 [Vent](https://youtu.be/UjpPg0VP1Ng?si=DPQqZtlVBSqx7TLv&t=414)
+
 ### Premiers tests:
 
 https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-bedc-aeb8f14da3c3
