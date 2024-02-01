@@ -201,3 +201,57 @@ Hebdomadaire
 
 Autre: 
 - **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+
+
+## Jeudi artistique 
+
+ 
+
+### Semaine 1 
+
+### Public cible 
+
+Le public cible pour notre installation est diversifié. Les adultes seraient attirés davantage par le côté réflexion de l’installation et le but derrière l’installation. Quant aux enfants, ils peuvent simplement s’amuser à accomplir les différentes étapes tout en admirant ce que leurs choix apportent aux décors. 
+
+### Quatre éléments spécifiques au médium de l’interactivité 
+
+Comportement de l’interacteur :  
+
+L’interacteur vient interagir avec la structure directement afin de changer l’environnement autour de lui et la structure en elle-même. Les interactions sont variées comme des boutons, des leviers ou simplement les mouvements de l’interacteur. 
+
+Esthétique : 
+
+Notre objectif est de représenter un pommier alors l’esthétique vient principalement s’inspirer de la nature à la fois sur le visuel et sur l’ambiance sonore. Cependant, le décor aura également beaucoup lumière qui viendra rajouter de la couleur à notre esthétique. 
+
+Espace : 
+
+L’installation se présentera dans le petit studio parce que le plafond est bas ce qui nous permettra d’accrocher sans trop de difficultés un poteau comme pièce principale de la structure. Aussi, la taille du petit studio nous permet de créer une ambiance immersive grâce à la projection et aux lumières. 
+
+Temps : 
+
+L’expérience commencera avec un bouton à appuyer et se terminera lorsque la pomme sera tirée. La progression se fera une étape après l’autre jusqu’au résultat final. 
+
+
+### Quelles émotions voulez-vous faire vivre à l’interacteur ? Pourquoi ? 
+
+L’objectif est de faire vivre plusieurs émotions auprès de l’interacteur. L’objectif principal de l’installation est de faire vivre la curiosité en encourageant l’exploration mais aussi de faire vivre une sorte d’accomplissement lorsqu’on arrive à la fin du pommier. Également, la surprise de ce que nos choix qui parfois semble insignifiant peuvent engendrer, amenant ainsi une réflexion sur les gestes qu’on pose au quotidien. Finalement, de la contemplation et de l’émerveillement face devant les différentes étapes mais surtout à la fin lorsque le pommier donne une pomme et vient mettre en lumière toute la salle. 
+
+### Quelles questions votre projet met-il dans l’esprit de l’interacteur ? 
+
+Le projet suscite des questions sur les liens entre nos actions et les conséquences à long terme, en illustrant l'effet papillon à travers l'évolution d'un pommier interactif.  
+
+Comment mes actions spécifiques dans cette installation influencent-elles le développement du pommier et les événements qui en découlent ? 
+
+Quel est le lien entre les choix que je fais ici et les conséquences qui se déroulent tout au long de la croissance de l'arbre ? 
+
+En quoi les petites interactions peuvent-elles avoir un impact significatif sur le résultat final du pommier et de son environnement ? 
+
+Est-ce que chaque visiteur expérimente une évolution unique du pommier, ou existe-t-il des motifs récurrents résultant de différentes interactions ? 
+
+### Que devrez-vous faire pour qu’il ait envie de réponde à ces questions ? 
+
+Créer une expérience immersive captivante. 
+
+Intégrer des éléments visuels, tactiles et sonores engageants dans l'évolution du pommier, tout en assurant que chaque interaction ait un impact visible et clair, pour inciter les interacteurs à explorer et à expérimenter. 
+
+Rendre le tout évident et compréhensible, en utilisant des mécanismes efficaces qui représente bien le message que l’on veut faire passer mais en les motivant à rester du début à la fin de l’expérience. 
