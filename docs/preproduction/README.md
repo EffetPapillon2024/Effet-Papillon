@@ -288,10 +288,12 @@ Rendre le tout évident et compréhensible, en utilisant des mécanismes efficac
  
 
 ### Logo de l’équipe 
+![Cartographie](medias/logo.png)
 
  
 
 ### Bannière de l’équipe 
+![Cartographie](medias/banniere.png)
 
  
 
