@@ -94,19 +94,19 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-
 
 
 ## Logiciels requis
-[Tableaul logiciels requis](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=i2nGn4)
+[Tableaul logiciels requis](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=BAI3Eo)
 
 ## Ressources humaines requises
-[Tableau ressources humaines requises](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=BVRiow)
+[Tableau ressources humaines requises](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=MH4cKd)
 
 ## Ressources spatiales requises (rangement et locaux)
-[Tableau spécifications des espaces nécessaires](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=7Pa9Kn)
+[Tableau spécifications des espaces nécessaires](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=UuQ6EW)
 ## Contraintes techniques et potentiels problèmes de production
-[Tableau contraintes techniques](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=QugJAu)
+[Tableau contraintes techniques](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=W2hwoA)
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=mxiJBH)
+[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=tqlFBW)
 
 
 ## Échéancier global
