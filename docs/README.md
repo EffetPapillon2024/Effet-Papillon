@@ -2,6 +2,6 @@
 
 Dans ce dossier, on retrouve:
 
-* La préproduction du projet à réaliser en début de projet;
-* Les journaux de création individuels de chaque membre de l'équipe à remplir chaque semaine;
-* Votre page Web d'équipe à mettre à jour chaque semaine (**index.html**).
+* La préproduction du projet;
+* Les journaux de création individuels de chaque membre de l'équipe;
+* La page web affichée sur le [site web TIM](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
