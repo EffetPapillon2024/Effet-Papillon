@@ -83,7 +83,7 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-
 
 
 ### Schéma de branchement 
-![branchemernt drawio](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/assets/94623626/53a1e828-e4d9-47e3-83af-b239cc067a91)
+![branchemernt drawio](https://github.com/Iteration6/Effet-Papillon/assets/94623626/5ffd2119-c5af-47cc-b83d-b258d8fa7089)
 
 
 ## Matériel de scénographie requis
