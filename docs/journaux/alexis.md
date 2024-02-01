@@ -56,6 +56,10 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 - Devoir pour le jeudi artistique
 - Test de projection double sur le mur
 - Écriture du script de la vidéo de préproduction
+- Envoi de vidéo en NDI grâce à TouchDesigner
+- Séparation d'une image en plusieurs écrans grâce à TouchDesigner
+- Installation des projecteurs et des speakers dans le petit studio
+- Test d'installation de la structure
 
 
 
