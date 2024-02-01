@@ -203,11 +203,11 @@ Autre:
 - **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
 
 
-## Jeudi artistique 
+# Jeudi artistique 
 
  
 
-### Semaine 1 
+## Semaine 1 
 
 ### Public cible 
 
