@@ -221,11 +221,11 @@ L’interacteur vient interagir avec la structure directement afin de changer l�
 
 Esthétique : 
 
-Notre objectif est de représenter un pommier alors l’esthétique vient principalement s’inspirer de la nature à la fois sur le visuel et sur l’ambiance sonore. Cependant, le décor aura également beaucoup lumière qui viendra rajouter de la couleur à notre esthétique. 
+Notre objectif est de représenter un pommier alors l’esthétique vient principalement s’inspirer de la nature à la fois sur le visuel et sur l’ambiance sonore. Cependant, le décor aura également beaucoup lumière qui viendra rajouter de la couleur à notre esthétique. Le pommier sera un pommier électronique, une sorte de cyber-pommier.
 
 Espace : 
 
-La taille du petit studio nous permet de créer une ambiance immersive grâce à la projection et aux lumières. 
+La taille du petit studio nous permet de créer une ambiance immersive grâce à la projection et aux lumières. Dans les écran on représentera le pommier de manière plus concrète, comment on le voit de l'extérieur.
 
 Temps : 
 
@@ -245,8 +245,6 @@ Comment mes actions spécifiques dans cette installation influencent-elles le d�
 Quel est le lien entre les choix que je fais ici et les conséquences qui se déroulent tout au long de la croissance de l'arbre ? 
 
 En quoi les petites interactions peuvent-elles avoir un impact significatif sur le résultat final du pommier et de son environnement ? 
-
-Est-ce que chaque visiteur expérimente une évolution unique du pommier, ou existe-t-il des motifs récurrents résultant de différentes interactions ? 
 
 ### Que devrez-vous faire pour qu’il ait envie de réponde à ces questions ? 
 
