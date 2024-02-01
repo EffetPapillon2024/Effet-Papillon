@@ -255,3 +255,55 @@ Créer une expérience immersive captivante.
 Intégrer des éléments visuels, tactiles et sonores engageants dans l'évolution du pommier, tout en assurant que chaque interaction ait un impact visible et clair, pour inciter les interacteurs à explorer et à expérimenter. 
 
 Rendre le tout évident et compréhensible, en utilisant des mécanismes efficaces qui représente bien le message que l’on veut faire passer mais en les motivant à rester du début à la fin de l’expérience. 
+
+## Semaine 2 
+
+### 1. Listez tous les verbes (actions basiques) disponibles à vos interacteurs. 
+
+- Tourner 
+
+- Appuyer 
+
+- Tirer 
+
+- Déplacer 
+
+- Allumer 
+
+### 2. Listez tous les objets sur lesquels chaque verbe peut agir et comment ils le font. 
+
+- Tourner la valve 
+
+- Appuyer sur le bouton qui allume 
+
+- Tirer sur la pomme 
+
+- Déplacer le bouton sur le slider 
+
+- Allumer les lumières à l’aide de light switch 
+
+ 
+
+### 3. Listez plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent. 
+
+ 
+
+### 4. Listez toutes les façons que les interacteurs peuvent faire progresser l’expérience. 
+
+ 
+
+### Logo de l’équipe 
+
+ 
+
+### Bannière de l’équipe 
+
+ 
+
+### Paragraphe du projet 
+
+Comme les battements d'ailes d'un papillon peuvent déclencher une réaction en chaîne, chaque petite croissance et soin prodigué à un pommier crée un effet papillon, propageant la vitalité de ses racines jusqu'au sommet de ses fruits florissants.  
+
+Plongez dans une expérience immersive où l'interacteur devient le maître de sa propre réalité avec l'œuvre intitulée 'Effet Papillon'. Cette installation unique invite les participants à interagir directement avec la structure, modifiant ainsi l'environnement qui les entoure ainsi que la structure elle-même. Les interactions, qu'elles soient générées par des boutons ou des leviers offrent une diversité d'expériences sensorielles. 
+
+L'esthétique de l'œuvre est centrée autour de la représentation d'un pommier, s'inspirant principalement de la nature tant au niveau visuel qu'auditif. Le décor, tout en évoquant la nature, intègre également une abondance de lumière pour enrichir l'esthétique globale de l'installation. 
