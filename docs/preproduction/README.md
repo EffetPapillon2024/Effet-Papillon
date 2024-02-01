@@ -211,7 +211,7 @@ Autre:
 
 ### Public cible 
 
-Le public cible pour notre installation est diversifié. Les adultes seraient attirés davantage par le côté réflexion de l’installation et le but derrière l’installation. Quant aux enfants, ils peuvent simplement s’amuser à accomplir les différentes étapes tout en admirant ce que leurs choix apportent aux décors. 
+Explorateurs
 
 ### Quatre éléments spécifiques au médium de l’interactivité 
 
@@ -225,11 +225,11 @@ Notre objectif est de représenter un pommier alors l’esthétique vient princi
 
 Espace : 
 
-L’installation se présentera dans le petit studio parce que le plafond est bas ce qui nous permettra d’accrocher sans trop de difficultés un poteau comme pièce principale de la structure. Aussi, la taille du petit studio nous permet de créer une ambiance immersive grâce à la projection et aux lumières. 
+La taille du petit studio nous permet de créer une ambiance immersive grâce à la projection et aux lumières. 
 
 Temps : 
 
-L’expérience commencera avec un bouton à appuyer et se terminera lorsque la pomme sera tirée. La progression se fera une étape après l’autre jusqu’au résultat final. 
+L’expérience commencera avec un bouton à appuyer et se terminera lorsque la pomme sera tirée. La progression se fera une étape après l’autre jusqu’au résultat final. Puis par la suite toute l'expérience recommence du début à la fin.
 
 
 ### Quelles émotions voulez-vous faire vivre à l’interacteur ? Pourquoi ? 
