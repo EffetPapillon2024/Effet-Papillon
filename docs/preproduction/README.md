@@ -87,10 +87,10 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-
 
 
 ## Matériel de scénographie requis
-[Tableau des matériaux de scénographie](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/Ef2frajDoDlOgnM39c6KDIwBUp3EiCAEkv_r2O8XiAzgpg?e=8mw3j9&nav=MTVfezI1RjU1MEI5LUE1RjMtNDRGNy04RTBGLUU0RjUyQzNGQUJCMH0)
+[Tableau des matériaux de scénographie](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=mn5vNf)
 
 ## Équipements requis
-[Tableau liste de l'équipements requis](https://cmontmorency365-my.sharepoint.com/:x:/r/personal/2173985_cmontmorency_qc_ca/Documents/Informations%20projet%20final.xlsx?d=wa8ad9ffda0c34e39827337f5ce8a0c8c&csf=1&web=1&e=hHKzlu)
+[Tableau liste de l'équipements requis](https://cmontmorency365.sharepoint.com/:x:/s/Section_H24_58266BMO-000001/EVP1QJMkN7pPrGMw1pMz5YsBDX4EmcTYr-UmgDXCN3vlag?e=6aHMnE)
 
 
 ## Logiciels requis
@@ -123,7 +123,7 @@ Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:
 [Onglet Projet](https://github.com/orgs/RealiteCroisee/projects/1/views/1)
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-[Onglet Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues)
+[Onglet Issues](https://github.com/Iteration6/Effet-Papillon/issues)
 
 ## Rôles et responsabilités des membres de l'équipe
 
@@ -150,9 +150,7 @@ Liste des tâches dans Git Hub:
 
 **William Morel**
 - Comité Technique et coordination technique (suivi du devis technique);
-- Intégrateur (imaginer, créer et mettre en place les décors sur la scène.)
-- Installation et mise en place des casques de réalité virtuelle et des appareils de captations;
-- Programmation du mapping vidéo pour la projection.
+- Intégrateur (imaginer, créer et mettre en place les éléments de la scène.)
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AMorelWilliam+) 
@@ -183,7 +181,6 @@ Liste des tâches dans Git Hub:
 
 **Jasmine Lapierre**
 - Intégrateur (imaginer, créer et mettre en place les décors sur la scène);
-- Programmation du mapping vidéo pour la projection;
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AJasmine-Lapierre)
