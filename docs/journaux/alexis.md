@@ -77,12 +77,10 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 #### Décrivez pourquoi.
  
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -90,11 +88,8 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 #### S'il y a des écarts, décrivez-les.
 
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+Le principal défi pour la semaine prochaine sera d'avoir un test de séquence qui se suit, comme par exemple, l'appui du bouton qui déclenche l'animation et la musique. Il sera aussi important de vérifier la fonctionnalité des speakers et des projecteurs afin d'avoir le résultat voulu.
 
 ---
 ## Semaine 3 
