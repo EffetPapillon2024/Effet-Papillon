@@ -55,13 +55,13 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 - Arrangement final de la préproduction
 - Devoir pour le jeudi artistique
 - Test de projection double sur le mur
-- Écriture du script de la vidéo de préproduction
+- Écriture du script de la vidéo d'intention
 - Envoi de vidéo en NDI grâce à TouchDesigner sur les écrans connecter au rasberry pi
 - Séparation d'une image en plusieurs écrans grâce à TouchDesigner
 - Installation des projecteurs et des speakers dans le petit studio
 - Test d'installation de la structure
-- Tournage de la vidéo d'inteention
-- Montage de la vidéo d'inteention
+- Tournage de la vidéo d'intention
+- Montage de la vidéo d'intention
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Envoi d'unee vidéo en ndi sur plusieurs écran](medias/bolduc_ecran_ndi.jpg)
