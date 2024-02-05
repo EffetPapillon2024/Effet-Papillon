@@ -57,28 +57,28 @@ Je dois conceptualiser le logo et la bannière de notre équipe et il y aura sû
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+J'ai fait le logo et la bannière du projet de notre équipe. J'ai aussi appris davantage sur comment je vais pouvoir faire fonctionner les lumières en harmonie avec le reste de l'installation. J'ai fait de la soudure sur nombreuses strip de fairy lights pour les rendrent addressable avec un atom m5 stack. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Fairy lights](../journaux/medias/fairylights.jpg)
+![Logo](../journaux/medias/logopapillon.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai fait plus que ce que je m'étais fixé, au début je pensais juste faire le logo et la bannière ainsi qu'un peu d'exploration concernant la technologie utilisée pour les lumières.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -90,7 +90,8 @@ Je dois conceptualiser le logo et la bannière de notre équipe et il y aura sû
 
 
 ### Défis pour la prochaine semaine
-
+Continuer la soudure des fairy lights
+Agencer touch designer au déclenchement des lumières
 
 ---
 ## Semaine 3 
