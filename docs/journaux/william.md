@@ -1,5 +1,5 @@
 # Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/photo_william.jpg)
+![portrait du participant ](../web/medias/participants/pfp_will.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
