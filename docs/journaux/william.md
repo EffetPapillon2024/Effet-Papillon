@@ -1,5 +1,5 @@
 # Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/pfp_will.jpg)
+![portrait du participant ](../web/medias/participants/photo_william.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -65,28 +65,33 @@ J'ai réussi à m'organiser pour avoir le temps de faire tout mes tests et de po
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Test Arduino
+- Test fairylight
+- Commencement de la construction de la structure
+- Prise des mesures de la structure
+- Test des projecteurs
+- Création d'un excel pour le matériel et les stratégies pour la création de chacune des étapes
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Plan 3D de la structure](../journaux/medias/will_montage.jpg)
+![Plan 3D de la structure](../journaux/medias/will_montage_02.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi à effectuer beaucoup de choses, mais j'aurais voulais avoir finit une des intéractions dans arduino pour la deuxième semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais essayer de me faire un horaire pour pouvoir finir tout ce que je vais prévoir pour cette semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -98,6 +103,9 @@ J'ai réussi à m'organiser pour avoir le temps de faire tout mes tests et de po
 
 
 ### Défis pour la prochaine semaine
+- Commander tout le matériels que j'ai besoin pour créer des intéractions
+- Tester les composantes comme le TOF sur le matériel acheté
+- Finir d'assembler la structure
 
 
 ---
