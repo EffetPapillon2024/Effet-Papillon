@@ -52,11 +52,11 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
--Création du logo pour la journée artistique
--Création de la banière animée pour la journée artistique
--installation des speakers dans le petit studio
--Création de l'ambience sonore pour le projet
--Enrigistrement de la video de preproduciton
+- Création du logo pour la journée artistique.
+- Création de la banière animée pour la journée artistique.
+- installation des speakers dans le petit studio.
+- Création de l'ambience sonore pour le projet.
+- Enrigistrement de la video de preproduciton.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/d1caa2f6-39ac-424a-ab45-5f4b6c346d4a)
@@ -84,9 +84,9 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 
 
 ### Défis pour la prochaine semaine
--Possiblement terminer tout les couches audios
--Terminer le set-up des speakers et les tester
--Faire un nouveau rendu de la banière animée avec les modificatiosn désirées
+- Possiblement terminer tout les couches audios.
+- Terminer le set-up des speakers et les tester.
+- Faire un nouveau rendu de la banière animée avec les modificatiosn désirées.
 
 ---
 ## Semaine 3 
