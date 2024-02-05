@@ -52,36 +52,35 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+-Création du logo pour la journée artistique
+-Création de la banière animée pour la journée artistique
+-installation des speakers dans le petit studio
+-Création de l'ambience sonore pour le projet
+-Enrigistrement de la video de preproduciton
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/d1caa2f6-39ac-424a-ab45-5f4b6c346d4a)
+![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/b9d2c983-88d8-491b-a751-a854dab6f3c5)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ Tout ce que je devais faire a était fait de A à Z.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
