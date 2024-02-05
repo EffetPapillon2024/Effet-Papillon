@@ -84,7 +84,9 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 
 
 ### Défis pour la prochaine semaine
-
+-Possiblement terminer tout les couches audios
+-Terminer le set-up des speakers et les tester
+-Faire un nouveau rendu de la banière animée avec les modificatiosn désirées
 
 ---
 ## Semaine 3 
