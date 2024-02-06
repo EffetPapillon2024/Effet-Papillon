@@ -48,12 +48,36 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
-
-- Paysages sonores
-- Ambiances visuelles
-- Contrôle d'éclairage
-- Projection
-- Interaction
+  1. Graine
+     1. Bruit creuser et enterrer la graine
+     2. Bouton qui flash
+     3. Video d'une graine qui se fait planter affichée sur l'écran au bas de la structure. Styliser la vidéo dans TouchDesigner.
+  3. Valve
+     1. Bruit eau qui coule dans le tuyau
+     2. Bruit de pluie
+     3. Bruit des racines qui poussent
+     4. Fairylights bleu (pluie et eau dans le tuyau)
+     5. Animation de pluie sur les écrans.
+     6. Animation de plante qui pousse sur le petit écran au bas de la structure.
+     7. Lumière DMX vers la valve pour mettre en évidence.
+  4. Tronc
+     1. Bruit de bois qui craque
+     2. Grondement
+     3. Animation de la pousse qui pousse vers le haut et apparait sur les autres écrans.
+     4. Lumières sur le tronc qui s'anime vers le haut.
+     5. Lumière DMX vers le slider pour mettre en évidence.
+  5. Feuille
+     1. Bruits de feuilles dans le vent
+     2. Fairylights vertes (feuilles)
+     3. Animation de mousse et de feuilles sur les écrans.
+  6. Pomme
+     1. Bruit de branche qui craque (pomme qui se fait ceuillir)
+     2. Lumière qui apparait dans la pomme reliée à la poulie.
+  7. A à Z
+     1. Musique spéciale d'ambiance
+     2. Animation du début jusqu'à la fin.
+     3. 3 projections sur les murs de vergers abstraits.
+     4. La salle s'illumine 
 
 ## Univers artistique des éléments
 ### Inspirations:
