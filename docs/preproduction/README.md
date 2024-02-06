@@ -66,7 +66,7 @@ Une installation interactive immersive qui explore le cycle de vie d'un pommier 
      3. Animation de la pousse qui pousse vers le haut et apparait sur les autres écrans.
      4. Lumières sur le tronc qui s'anime vers le haut.
      5. Lumière DMX vers le slider pour mettre en évidence.
-  5. Feuille
+  5. Feuilles
      1. Bruits de feuilles dans le vent
      2. Fairylights vertes (feuilles)
      3. Animation de mousse et de feuilles sur les écrans.
