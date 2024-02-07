@@ -49,28 +49,28 @@ Mieux dormir avant les rencontres et bien manger pour m'aider à réfléchir et 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Réalisation du logo de l'évènement et mise à jour des tableaux de la préproduction.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image](medias/lapierre_s2_logo-evenement.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai fait ce que j'avais à faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -82,7 +82,9 @@ Mieux dormir avant les rencontres et bien manger pour m'aider à réfléchir et 
 
 
 ### Défis pour la prochaine semaine
-
+Apporter les modifications au logo selon ce qui a été demandé à la rencontre du jeudi artistique.
+Faire un plan de mise en espace de la structure principale, des lumières, des racines et de la structure pour la valve.
+Faire fonctionner les 2 projecteurs ensemble.
 
 ---
 ## Semaine 3 
