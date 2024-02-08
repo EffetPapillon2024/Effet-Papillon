@@ -301,15 +301,19 @@ Rendre le tout évident et compréhensible, en utilisant des mécanismes efficac
 
 - Allumer les lumières à l’aide de light switch 
 
- 
-
 ### 3. Listez plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent. 
 
- 
+Réfléchir sur la manière dont nos actions peuvent avoir un impact sur l'environnement à long terme
+
+Interagir avec les différents éléments de l'installation pour découvrir les effets visuels et sonores associés à chaque étape de la croissance du pommier
+
+Discuter entre interacteurs des différentes étapes de croissance représentées dans l'installation
+
+Émerveiller le spectateur à travers les différentes étapes de croissance du pommier
 
 ### 4. Listez toutes les façons que les interacteurs peuvent faire progresser l’expérience. 
 
- 
+Effectuer les étapes une après l'autre
 
 ### Logo de l’équipe 
 ![Cartographie](medias/logo.png)
