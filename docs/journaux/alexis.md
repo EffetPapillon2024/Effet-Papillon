@@ -96,6 +96,7 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 - Création de visuels tests (Arbres, graines, pousse)
 - Connection entre la state machine et les visuels tout deux dans TouchDesigner
 - Transformer certaines données pour venir affecter les visuels
+- Modification de la state machine avec l'item timer
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
