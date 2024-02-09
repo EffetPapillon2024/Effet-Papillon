@@ -75,7 +75,7 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai travailler beeaucoup cette semaine. Je suis rester toute la semaine à l'écolee afin d'avancer l'installation dans le petit studio. Au vu des étapes que j'ai avancé cette semaine, je pense avoir complétement voir plus avancé que ce que je pensais.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -94,6 +94,9 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+- Arrangement des keystones sur les projecteurs
+- Création de visuels tests
+- Connection entre la state machine et les visuels tout deux dans TouchDesigner
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
