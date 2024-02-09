@@ -85,8 +85,6 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
 
 ### Défis pour la prochaine semaine
 Le principal défi pour la semaine prochaine sera d'avoir un test de séquence qui se suit, comme par exemple, l'appui du bouton qui déclenche l'animation et la musique. Il sera aussi important de vérifier la fonctionnalité des speakers et des projecteurs afin d'avoir le résultat voulu.
@@ -95,8 +93,9 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Arrangement des keystones sur les projecteurs
-- Création de visuels tests
+- Création de visuels tests (Arbres, graines, pousse)
 - Connection entre la state machine et les visuels tout deux dans TouchDesigner
+- Transformer certaines données pour venir affecter les visuels
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -106,7 +105,7 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -119,11 +118,13 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+Manque un coéquipier
+Moins de motivation
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
