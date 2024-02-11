@@ -111,24 +111,24 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai eu le temps de faire des visuels tests ainsi que de les relier à notre système dans TouchDesigner afin recevoir lees données et afficher les bons visuels au bon moment cependant ceux ci ne sont pas encore relier avec les capteurs m5stack que nous utilisons.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+La semaine prochaine, je compte fairee de ma priorité la connexion avec le système arduino pour s'assurer que toute les valeurs reçu soient les bonnes et sont bien reçus.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x] Assez
-- [ ] Un peu
+- [ ] Assez
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Manque un coéquipier
-Moins de motivation
-
+Cette semaine, notre coéquipier William Morel s'est retrouvé à l'hôpital dû à unee commotion ce qui a tout d'abord mis un coup au moral de l'équipe. Aussi, le projet avance forcément moins bien avec un coéquipier manquant dans l'équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Le but est évidemment de mieux diviser les tâches du coéquipier manquant et de mieux s'organiser en conséquence. Aussi, il faudrait se parler davantage en équipe pour voir nos avancées sur le projet.
 
 
 ### Défis pour la prochaine semaine
