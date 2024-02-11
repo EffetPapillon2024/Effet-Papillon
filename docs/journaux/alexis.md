@@ -100,7 +100,7 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Envoi ndi de visuel](medias/bolduc_semaine3.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -114,7 +114,7 @@ Le principal défi pour la semaine prochaine sera d'avoir un test de séquence q
 J'ai eu le temps de faire des visuels tests ainsi que de les relier à notre système dans TouchDesigner afin recevoir lees données et afficher les bons visuels au bon moment cependant ceux ci ne sont pas encore relier avec les capteurs m5stack que nous utilisons.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-La semaine prochaine, je compte fairee de ma priorité la connexion avec le système arduino pour s'assurer que toute les valeurs reçu soient les bonnes et sont bien reçus.
+La semaine prochaine, je compte faire de ma priorité la connexion avec le système arduino pour s'assurer que toute les valeurs reçu soient les bonnes et sont bien reçus.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
