@@ -329,6 +329,6 @@ Effectuer les étapes une après l'autre
 
 Comme les battements d'ailes d'un papillon peuvent déclencher une réaction en chaîne, chaque petite croissance et soin prodigué à un pommier crée un effet papillon, propageant la vitalité de ses racines jusqu'au sommet de ses fruits florissants.  
 
-Plongez dans une expérience immersive où l'interacteur devient le maître de sa propre réalité avec l'œuvre intitulée 'Effet Papillon'. Cette installation unique invite les participants à interagir directement avec la structure, modifiant ainsi l'environnement qui les entoure ainsi que la structure elle-même. Les interactions, qu'elles soient générées par des boutons ou des leviers offrent une diversité d'expériences sensorielles. 
+Plongez dans une expérience immersive avec l'œuvre intitulée 'Effet Papillon'. Cette installation unique invite les participants à interagir directement avec la structure, modifiant ainsi l'environnement qui les entoure ainsi que la structure elle-même. Les interactions, qu'elles soient générées par des boutons ou des leviers offrent une diversité d'expériences sensorielles. 
 
 L'esthétique de l'œuvre est centrée autour de la représentation d'un pommier, s'inspirant principalement de la nature tant au niveau visuel qu'auditif. Le décor, tout en évoquant la nature, intègre également une abondance de lumière pour enrichir l'esthétique globale de l'installation. 
