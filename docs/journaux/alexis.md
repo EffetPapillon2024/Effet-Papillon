@@ -132,6 +132,7 @@ Le but est évidemment de mieux diviser les tâches du coéquipier manquant et d
 
 
 ### Défis pour la prochaine semaine
+Le défi principale pour la semaine prochaine est d'avoir une maquette complète du prjet final à présenter. Il faut donc s'assurer que notre système récupère les données envoyé par les m5stack atom dans notre système et d'envoyer au bon moment la musique, les visuels et les lumière tout cela dans TouchDesigner.
 
 ---
 ## Semaine 4
