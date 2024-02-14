@@ -89,8 +89,11 @@ Faire fonctionner les 2 projecteurs ensemble.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
-
+- logo terminé.
+- keystones des deux projecteurs pour qu'ils projetent l'image sans l'ombre du pôle au milieu.
+- Mise à jour de la feuille excel du budget. Le materiel se fait ajouter automatiquement à la feuille lorsqu'il est ajouté à la liste de matériel.
+- Liste de tous les medias à creer + issues assignées
+- Liste d'éléments à mettre dans le plan de mise en espace (nombre et longueur des lumieres, repartition des interactions dans la salle etc.)
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
@@ -98,31 +101,31 @@ Faire fonctionner les 2 projecteurs ensemble.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+je n'ai pas fait le plan.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+je vais faire le plan
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
-
+je n'ai pas fait le plan, car j'ai sous-estimé le temps que ca allait prendre de poser les bonnes questions à l'équipe et de s'assurer qu'on est tous sur la même page.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire le plan d'ici la semaine prochaine
 
 ### Défis pour la prochaine semaine
-
+M'assurer que les rideaux de projection soient repassées et aient lair professionnels. trouver une manière de les lier ensemble. faire le plan de mise en espace.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
