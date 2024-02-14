@@ -137,6 +137,10 @@ Le défi principale pour la semaine prochaine est d'avoir une maquette complète
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+- Recevoir des messages osc envoyés par les m5stack atom
+- Synchronisation des sons dans TouchDesigner avec la machine
+- Synchronisation des visuels tests dans TouchDesigner avec la machine
+- Synchronisation des lumières/vidéos dans TouchDesigner avec la machine
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
