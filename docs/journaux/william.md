@@ -114,7 +114,7 @@ Je vais essayer de me faire un horaire pour pouvoir finir tout ce que je vais pr
 - Montage
 - Essaie d'aller chercher un breadboard (erreur fatale)
 
-### Image d'une réalisation dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier ou non
 ![L'accident](../journaux/medias/will_mort.jpg)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
