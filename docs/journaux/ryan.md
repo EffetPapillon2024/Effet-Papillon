@@ -96,21 +96,22 @@ Agencer touch designer au déclenchement des lumières
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Accrochage de lumières
+- Scénarisation de l'emplacement des lumières
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![emplacement de lumiere](../journaux/medias/placelum.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai accompagné mon coéquipier William à l'hôpital donc j'ai dû manquer une journée de travail. De plus, je m'inquietais pour son étât alors ma productivité était diminué.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -118,18 +119,19 @@ Agencer touch designer au déclenchement des lumières
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais je n'ai pas pu, à cause de la situation mentionné ci-dessus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+- Faire fonctionner mes lumières simultanément
+- Mapping vidéo de l'animation des lumières.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
