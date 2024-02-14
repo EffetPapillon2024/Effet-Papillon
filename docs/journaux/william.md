@@ -124,7 +124,7 @@ Je vais essayer de me faire un horaire pour pouvoir finir tout ce que je vais pr
 - [x] Pas du tout
 
 #### Décrivez pourquoi.
- Suite à mon aventure de breadboard, je suis tombé sur la glace et j'ai eu une commotioon cérébrale donc j'ai dû prendre une semaine de repos.
+ Suite à mon aventure de breadboard, je suis tombé sur la glace et j'ai eu une commotion cérébrale donc j'ai dû prendre une semaine de repos.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Ne plus aller chercher du matériel à l'extérieur seul.
@@ -144,7 +144,7 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 
 ### Défis pour la prochaine semaine
 - Me reposer
-- Créer un sytème d'entenoir pour la lumière
+- Créer un système d'entenoir pour la lumière
 - Créer des médias dans TouchDesigner pour les petits écrans
 - Créer des médias dans TouchDesigner pour les projections
 - Finir la salle pour procédé aux tests
