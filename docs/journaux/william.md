@@ -111,7 +111,8 @@ Je vais essayer de me faire un horaire pour pouvoir finir tout ce que je vais pr
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Montage
+- Essaie d'aller chercher un breadboard (erreur fatale)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -122,17 +123,17 @@ Je vais essayer de me faire un horaire pour pouvoir finir tout ce que je vais pr
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Suite à mon aventure de breadboard, je suis tombé sur la glace et j'ai eu une commotioon cérébrale donc j'ai dû prendre une semaine de repos.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne plus aller chercher du matériel à l'extérieur seul.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -144,7 +145,11 @@ Je vais essayer de me faire un horaire pour pouvoir finir tout ce que je vais pr
 
 
 ### Défis pour la prochaine semaine
-
+- Me reposer
+- Créer un sytème d'entenoir pour la lumière
+- Créer des médias dans TouchDesigner pour les petits écrans
+- Créer des médias dans TouchDesigner pour les projections
+- Finir la salle pour procédé aux tests
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
