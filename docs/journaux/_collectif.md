@@ -7,7 +7,7 @@ Cette semaine a été consacrée à repenser le projet et adapter la préproduct
 
 La majorité de la semaine fût occupée par des rencontres d'équipes plutôt productives qui nous on permis de complètement revoir le projet et d'avoir une meilleure idée de la direction du projet.
 (Photo à changer)
-[medias/exemple_general.jpg](https://github.com/Iteration6/Effet-Papillon/blob/bff25fd46ef8aaab2b5f28a35b97eb95d7b22ec0/docs/journaux/medias/bolduc_s1_brainstorm.jpg)
+![medias/exemple_general.jpg](https://github.com/Iteration6/Effet-Papillon/blob/bff25fd46ef8aaab2b5f28a35b97eb95d7b22ec0/docs/journaux/medias/bolduc_s1_brainstorm.jpg)
 
 Nous avons également prit le temps de parler avec les TTPs et Guillaume pour cibler les défis à relever pour la mise en espace. Il semble que le positionement actuel des projecteurs posera problème et devra être revu. Plusieurs pistes ont été nommées dont une impliquant des miroirs qui seront testés dans les prochaines semaines.
 (Photo à changer)
