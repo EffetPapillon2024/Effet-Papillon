@@ -141,6 +141,8 @@ Le défi principale pour la semaine prochaine est d'avoir une maquette complète
 - Synchronisation des sons dans TouchDesigner avec la machine
 - Synchronisation des visuels tests dans TouchDesigner avec la machine
 - Synchronisation des lumières/vidéos dans TouchDesigner avec la machine
+- Organisation du moment final dans TouchDesigner
+- Début de la construction des objets (valve)
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -149,31 +151,30 @@ Le défi principale pour la semaine prochaine est d'avoir une maquette complète
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ J'ai réussi à faire fonctionner tout notre code dans TouchDesigner afin de recevoir les messages osc envoyé dans notre logiciel TouchDesigner afin de déclencher au bon moment, les visuels, les lumières ainsi que les sons. Ce qui permet d'avoir une maquette présentable et un bon apercu du résultat final de notre installation malgré que les visuels ne soient pas les finaux. 
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je pense que pour la démonstration de la maquette, certains visuels représentant nos visuels finaux auraient été un bon ajout à l'installation. Cependant, nous avons le sons d'ambiance final.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+L'idée est de commencer à travailler le plus rapidement possible sur les visuels finaux, les lumière et les bruitages sachant que le fonctionnement de l'installation est finalisé.
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine, je compte commencer à travailler sur les visuels finaux diffuser dans les écrans lors des différentes étapes et les intégrer à notre patch TouchDesigner qui contrôle les séquences.
 
 ---
 ## Semaine 5
