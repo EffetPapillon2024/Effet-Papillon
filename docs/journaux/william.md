@@ -151,28 +151,38 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Modélisation et Rigging du cerf
+- Modélisation et impression 3D du test du système d'entenoir
+- Création du moodboard pour le contenu de la projection
+- Création du scénarimage pour le contenu de la projection
+- Création de visuel pour les petits écrans dans TouchDesigner
+- Test de visuel avec le modèle 3D dans TouchDesigner
+- Création de FX dans Houdini
+- Rencontre d'équipe pour le synopsis du mini film
+- Test de la lumière DMX dans le petit studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![L'accident](../journaux/medias/cerf_touch.png)
+![L'accident](../journaux/medias/cerf_rig.png)
+![L'accident](../journaux/medias/storyboard.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'aurais voulu avoir le temps de finir le Skinning de cerf, mais à la place j'ai fait le storyboard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -184,7 +194,9 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 
 
 ### Défis pour la prochaine semaine
-
+- Finir le modèle de A à Z
+- Créer une animation de cerf
+- Créer l'environnement en modélisation 3D
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
