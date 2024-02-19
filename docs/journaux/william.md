@@ -131,13 +131,13 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [x] Complètement
+- [] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je n'ai pas pu continuer mon travail arduino donc Raphael à dû le faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -151,28 +151,37 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Modélisation et impression 3D d'un test du système d'entenoir
+- Apprentissage du logiciel FreeCAD
+- Création de visuel dans TouchDesigner
+- Création de visuel dans Houdini
+- Création du modèle et du rig du cerf
+- Création du storyboard pour le contenu de projection
+- Création du moodboard pour le contenu de projection
+- Test dans le studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![L'accident](../journaux/medias/cerf_touch.png)
+![L'accident](../journaux/medias/cerf_rig.png)
+![L'accident](../journaux/medias/storyboard.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai fait les tâches que je voulais faire, mais j'aurais voulu finir le skinning du cerf.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -184,7 +193,8 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 
 
 ### Défis pour la prochaine semaine
-
+- Création des animations pour le mini film
+- Création de fx pour le mini film
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
