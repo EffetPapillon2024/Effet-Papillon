@@ -103,7 +103,9 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
-![Structure 3D](medias/stl_structure.stl)
+![Plantation]([medias/stl_structure.stl](https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png)
+
+[Structure 3D](https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/stl_structure.stl)
 
 
 ### Schéma de branchement 
