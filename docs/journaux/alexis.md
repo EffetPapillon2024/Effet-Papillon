@@ -179,6 +179,17 @@ Pour la semaine prochaine, je compte commencer à travailler sur les visuels fin
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- Arranger le problème lié au slider
+- Fixer les poulies pour le mécanisme de la pomme
+- Installation de la switch pour les port internet
+- Finalisation de réflexion sur le placement de la structure
+- Ajouter le visuel final de la pluie
+- Ajout des premiers effets sonores
+- Arrangement du son
+- Synchroniser nos lumières en USB avec notre système
+- Modification de l’assemblage sonore lors de l’expérience
+- Test complet de l’ensemble du mécanisme avec tout les messages osc reçu et tout le matériel diffusé (visuel,audio,lumière)
+- Test du nouveau visuel de l’arbre
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -188,19 +199,19 @@ Pour la semaine prochaine, je compte commencer à travailler sur les visuels fin
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le cycle de la machine fonctionne parfaitement. Le système fonctionne avec les objets reliés au m5stack atom pour la majorité. Il réagit même avec les lumières brancher en USB grâce à un contrôle dans TouchDesigner. Certains visuels finaux ont commencé à être ajouté. Plusieurs problèmes reliés au branchement ont égaleement été règlés.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais m'occuper de vérifier que la valve et la poulie en fonction des valeurs qu'ils envoient puissent être reçu et déclenche au moment voulu le système dans TouchDesigner.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -212,6 +223,7 @@ Pour la semaine prochaine, je compte commencer à travailler sur les visuels fin
 
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine, le but serait de tester notamment la valve et la poulie avec le système. Aussi de commencer à faire l'installation finale de la structure en positionnant des objets comme le bouton ou la valve à leur endroit final. Positionner pour l'installation finale.
 
 ---
 ## Semaine de rattrapage
