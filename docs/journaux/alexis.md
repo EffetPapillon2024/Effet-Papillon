@@ -64,7 +64,7 @@ Le défi principal de la semaine prochaine est la création de notre vidéo de p
 - Montage de la vidéo d'intention
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Envoi d'unee vidéo en ndi sur plusieurs écran](medias/bolduc_ecran_ndi.jpg)
+![Envoi d'une vidéo en ndi sur plusieurs écran](medias/bolduc_ecran_ndi.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -146,7 +146,8 @@ Le défi principale pour la semaine prochaine est d'avoir une maquette complète
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Système connecté-osc](medias/bolduc_semaine4_1.png)
+![Envoi lumière](medias/bolduc_semaine4_2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -193,7 +194,7 @@ Pour la semaine prochaine, je compte commencer à travailler sur les visuels fin
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Visuel de l'arbre](medias/bolduc_semaine5.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
