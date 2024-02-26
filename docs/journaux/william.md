@@ -246,7 +246,11 @@ Cette semaine tout le monde restaient très tard pour travailler donc je suis vr
 
 
 ### Défis pour la prochaine semaine
-
+- Finir le mini film
+- Finir les dernières animations
+- Trouver une solution pour les rendus
+- Faire des visuels pour les petits écrans
+- Faires des rendus pour les petits écrans
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
