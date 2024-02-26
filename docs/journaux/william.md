@@ -200,34 +200,47 @@ Ne plus aller chercher du matériel à l'extérieur seul.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- Modélisation biche
+- Refaire la modélisation cerf
+- Rig et Skinning du cerf et de la biche
+- Modélisation de l'environnement
+- Test de l'eau dans blender
+- Exportation du rendu de l'eau dans blender
+- Test de l'explosion dans blender
+- Exportation du rendu de l'explosion
+- Test de la décomposition de la montagne
+- Exportation de la décomposition de la montagne
+- Animation des cerfs et des biche dans maya
+- Rencontre pour parler du visuel avec l'équipe
+- Test d'animation circulaire dans maya
+- Créer les assets pour l'environnement
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
+![terrain cerf](../journaux/medias/terrain_cerf.png)
+![explosion terrain](../journaux/medias/explosion_terrain.png)
+![montagne eau](../journaux/medias/montagne_eau.png)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'aurais voulu créer plus d'asset et finir plus d'animation différentes pour les cerfs, mais les rendus d'essais ont prit trop de temps. Aussi, j'ai eu beaucoup de problème pour faire les transferts des alembic entre Maya, Houdini et Blender donc cela à prit plus de temps prévu. Par ailleurs, j'ai dû aussi refaire beaucoup de "Bake" pour pouvoir faire de multiple test sur l'eau, la désintégration et le terrain donc cela à prit plus de temps que prévu. Pour finir, j'ai eu des problèmes lorsque j'envoyais mes alembic à Jasmine, car l'alembic faisait 40g et même lorsque je le 7zip, ça prennait beaucoup trop de temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+Je dois plus évaluer le temps que les choses vont me prendre et ne pas sous-estimer les rendus.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Cette semaine tout le monde restaient très tard pour travailler donc je suis vraiment fier de nous. Tout le monde faisait leurs tâches et le projet est sur sa dernière ligne droite.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
