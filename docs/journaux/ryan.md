@@ -135,28 +135,31 @@ J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Réussite sur le fonctionnement de plusieurs fairy lights simultanées.
+- Programmation des esp32 pour rendre les fairy lights addressable.
+- Accrochage de la moitié des fairy lights (en s'assurant de ne pas créer d'ombre au niveau des projections)
+- Remplacement du besoin de soudure par des Unit VH3.96
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![emplacement de lumiere](../journaux/medias/manylights.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai régler les défis de la semaine passée. D'ailleurs, j'ai pris de l'avance sur mes tâches grâce à la solution de Thomas de ne pas effectuer de la soudure mais plutôt utiliser des Unit VH3.96. Donc, j'ai pu accrocher plus de lumières que prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -168,6 +171,7 @@ J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais
 
 
 ### Défis pour la prochaine semaine
+Continuer l'accrochage des lumières et s'assurer de la connectivité à hyper HDR des 10 fairy lights.
 
 ---
 ## Semaine 5
@@ -177,7 +181,6 @@ J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
-
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
@@ -186,7 +189,7 @@ J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -205,6 +208,7 @@ J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais
 
 
 ### Défis pour la prochaine semaine
+ 
 
 ---
 ## Semaine de rattrapage
