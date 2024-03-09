@@ -240,7 +240,7 @@ Pour la semaine prochaine, le but serait de tester notamment la valve et la poul
 - Visuel avant de planter la graine + l’implanter dans le système
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Réorganisation des écrans](medias/bolduc_semaine6.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -289,7 +289,7 @@ Les défis pour la semaine prochaine sont de réussir à adapter tout les visuel
 - Création de la séquence de fin de l'arbre lorsque la pomme est tirée
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Visuel final](medias/bolduc_semainerattrapage.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
