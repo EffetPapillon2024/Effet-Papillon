@@ -227,46 +227,17 @@ Je vais m'occuper de vérifier que la valve et la poulie en fonction des valeurs
 Pour la semaine prochaine, le but serait de tester notamment la valve et la poulie avec le système. Aussi de commencer à faire l'installation finale de la structure en positionnant des objets comme le bouton ou la valve à leur endroit final. Positionner pour l'installation finale.
 
 ---
-## Semaine de rattrapage
-### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
----
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Installation des rideaux
+- Assemblage du slider
+- Fonctionnement de la pomme
+- Assemblage et programmation des lumières dmx 
+- Reogarnisation des écrans
+- Rajout de visuels dans les écrans/Repenser à de nouveaux visuels
+- Système de reset de l’ensemble des éléments
+- Arrangement des Keystone
+- Visuel avant de planter la graine + l’implanter dans le système
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -275,12 +246,61 @@ Pour la semaine prochaine, le but serait de tester notamment la valve et la poul
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
+- [x] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Il y a certains sytèmes dans TouchDesigner qui ne sont pas encore adaptés aux nouveaux visuels et le système de reset n'est pas encore tout à fait fonctionnel.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+La semaine prochaine, je compte consacrer mon temps à l'optimisation et à l'ajout des systèmes afin qu'ils soient adaptés avec nos nouveaux visuels et nos ajouts de visuels.
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [x] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+Pour la projection final, il aurait été favorable d'effectuer des tests avec différeents effets et différents types de rendu pour choisir celui qu'on préfère.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+La semaine prochaine des tests sur les rideaux seront effectués dès lundi pour ensuite partir les rendus de la séquence finale avec le résultat désiré.
+
+
+### Défis pour la prochaine semaine
+Les défis pour la semaine prochaine sont de réussir à adapter tout les visuels et les sytèmes afin de bien pouvoir les intégrer dans TouchDesigner. Notamment concernant les ampoules qui doivent s'allumer et s'éteindre au bon moment.
+
+---
+## Semaine de rattrapage
+### Résumé des réalisations effectuées
+- Régler un problème lié à l’ajout de plusieurs médias sur le même ndi out
+- Finalisation des visuels liées à l’arbre (lui donner l’aspect de particule)
+- Finalisation du système de réinitialisation lors d’une trop grande attente 
+- Création du visuel de la graine
+- Mettre à jour les timers avec les nouveaux visuels
+- Adapter les formats vidéos
+- Retravailler la vidéo de trail avant l’apparition de la graine
+- Installation des ampoules et des lights switch et programmer dans TouchDesigner leur réinitialisation
+- Programmer et ajouter les éléments pour créer un feedback lorsque les éléments sont déclenchés au mauvais moment
+- Création de la séquence de fin de l'arbre lorsque la pomme est tirée
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussi à finir l'intégration de tout nos nouveaux médias à la machine dans TouchDesigner dans l'ordre voulu. J'ai aussi eu le temps de programmer la fin de la réintialisation du système et du feedback envoyé lorsqu'un objet est touché au mauvais moment. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -288,17 +308,19 @@ Pour la semaine prochaine, le but serait de tester notamment la valve et la poul
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+La projection finale n'a pas été fini cette semaine mais des tests ont été effectués. 
+De plus, la construction de la valve n'a pas été commencé et le slider malgré de nombreux tests ne fonctionnent encore qu'à la moitié.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+La semaine prochaine, nous allons s'attaquer à la construction de la valve et fixer le slider ainsi que d'ajouter la séquence final, rendu au complet.
 
 ### Défis pour la prochaine semaine
+Pour la dernière semaine, il faut notamment ajouter la séquence final et voir le rendu que l'on obtient. Surtout, il faut finir l'installation et la construction de la valve et fixer à sa position final le slider.
 
 ---
 ## Semaine 7
