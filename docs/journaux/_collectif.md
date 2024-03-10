@@ -38,15 +38,16 @@ Finalement, l'ambiance sonore du projet a été conçu afin d'avoir notre bande 
 ## Semaine 3
 ### Affinage des détails visuels et techniques
 
-La troisième semaine a été caractérisée par un travail minutieux visant à perfectionner les aspects visuels et techniques du projet :
+La troisième semaine a été une semaine de premiers tests. Pour le côté lié à l'installation, nous avons fait les premiers arrangement sur les keystones des projecteurs afin qu'ils soient semblable au mur et que la projection soit de la bonne taille. L'accrochage des fairylights a également été effectué afin de pouvoir commencer la scénarisation de celle-ci.
+![Test de fairylights](medias/fairylight_accrocher.jpg)
 
-- **Arrangement des keystones sur les projecteurs :** Des ajustements précis ont été apportés pour garantir la qualité de la projection.
-- **Création de visuels tests (Arbres, graines, pousse) :** Des éléments visuels essentiels ont été conçus et testés pour capturer l'esthétique désirée.
-- **Connection entre la state machine et les visuels dans TouchDesigner :** Une intégration technique cruciale a été réalisée pour assurer la synchronisation entre les éléments visuels et la programmation.
-- **Transformation de données pour affecter les visuels :** Des manipulations de données ont été effectuées pour influencer les visuels de manière dynamique.
-- **Accrochage de lumières selon la scénarisation prévue :** Un travail méticuleux a été entrepris pour placer les sources lumineuses conformément au scénario préétabli.
+Les premiers visuels d'essais ont été créés afin de pouvoir programmer et essayer de les ajouter à notre programme dans TouchDesigner. Notre programme qui a d'ailleeurs vu son objet "Delay" remplacer par un "Timer" puisque celui-ci correspond mieux à notre projet. Ce qui nous a permis de connecter notre objet "Timer" avec nos premiers visuels d'essais afin de programmer le tout.
+![Test de fairylights](medias/structure-test.jpg)
 
-Au cours de cette semaine, des avancées significatives ont été réalisées dans la programmation et la synchronisation des éléments visuels, sonores et lumineux. L'équipe a travaillé de concert pour affiner les détails esthétiques et techniques, jetant ainsi les bases d'une expérience immersive et cohérente.
+Malheureusement, lors de cette semaine, notre coéquipier William Morel a fait une chute lors d'une sortie en extérieur. Il a attrapé une commotion en début de semaine ce qui est venu donner un coup au moral de l'équipe et donc nous a ralenti sur notre projet. 
+
+En conclusion, cette semaine a été plus difficille ce qui ne nous a tout de même pas empêcher de bien commencer les premiers essais avec notre programme. Nous souhaitons à William un bon rétablissement et nous espérons qu'ils reviennent en force la semaine prochaine!
+
 ## Semaine 4
 ### Intégration et ajustements finaux
 
@@ -85,6 +86,8 @@ La cinquième semaine a été marquée par la finalisation du projet et la réso
 Au cours de cette semaine, l'accent a été mis sur la résolution des problèmes de dernière minute et sur l'optimisation de l'ensemble de l'installation. L'équipe a travaillé avec détermination pour atteindre les objectifs fixés et assurer le succès de l'événement.
 
 ## Semaine 6
+
+## Semaine de rattrapage
 
 ## Semaine 7
 
