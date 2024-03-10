@@ -22,19 +22,18 @@ Finalement, quelques médias ont été crées comme une image d'inspiration qui 
 Nous sommes bien heureux de ce qui a été accompli et avons hâte de voir comment le projet évoluera! À la semaine prochaine!
 
 ## Semaine 2
-### Préparation finale et mise en place
+### Préparation et mise en place
 
-La deuxième semaine a été marquée par une phase intense d'arrangement final de la préproduction. Les équipes se sont concentrées sur plusieurs aspects cruciaux du projet :
+La deuxième semaine a été marquée par une phase d'arrangement final de la préproduction. Également, la création de la vidéo d'intention qui a été écrit, filmé et monté lors de cette semaine. L'équipe s'est concentrées sur plusieurs aspects du projet notamment les premiers essais afin de créer la structure qui supportera les écrans mais aussi trouver comment envoyer des images/vidéos en NDI dans les écrans grâce à TouchDesigner.
+![NDI écrans](medias/pi-ndi.jpg)
 
-- **Devoir pour le jeudi artistique :** Chaque membre de l'équipe a été chargé de contribuer à cette étape artistique essentielle.
-- **Test de projection double sur le mur :** Des essais ont été réalisés pour parfaire la projection et assurer une qualité optimale.
-- **Écriture du script de la vidéo d'intention :** Un script détaillé a été élaboré pour communiquer efficacement les intentions du projet.
-- **Envoi de vidéo en NDI grâce à TouchDesigner sur les écrans connectés au Raspberry Pi :** Des tests techniques ont été effectués pour assurer la fluidité de la diffusion vidéo.
-- **Séparation d'une image en plusieurs écrans grâce à TouchDesigner :** Cette manipulation technique a été explorée pour enrichir l'expérience visuelle.
-- **Installation des projecteurs et des enceintes dans le petit studio :** Un travail minutieux a été entrepris pour mettre en place l'équipement audiovisuel.
-- **Tournage et montage de la vidéo d'intention :** Une vidéo percutante a été produite pour présenter le projet de manière concise et captivante.
+Il y avait une problèmatique liées à la structure qui était au milieu de la projection qui nous a amené à tester des possibilité de projection soit à l'aide de deux projecteurs ou à l'aide d'un miroir redirigé la projection. Notre choix s'est arrêté sur l'utilisation de deux projecteurs.
+![Installation des projecteurs](medias/instal-projecteurs.jpg)
 
-Parallèlement à ces activités, des tests techniques ont été menés, notamment sur Arduino et Fairylight, pour assurer le bon fonctionnement des dispositifs lumineux. De plus, la construction de la structure a débuté, et des mesures ont été prises pour garantir son intégration harmonieuse dans l'espace. Enfin, des efforts ont été déployés pour créer une ambiance sonore immersive, avec l'enregistrement de vidéos de préproduction et la soudure de nombreuses bandes de fairy lights pour les rendre addressables.
+Maintenant d'un point de vue technique, nous avons installé les quatres projecteurs et les quatres enceintes nécessaires. Des tests à l'aide des logiciels arduino et hyperhdr ont été fait afin de comprendre le fonctionnement des fairylights soudés aux M5Stack atom.
+![Test de fairylights](medias/fairylight1.jpg)
+
+Finalement, l'ambiance sonore du projet a été conçu afin d'avoir notre bande son ainsi que de s'assurer que celle-ci allait avec notre direction artistique.
 
 ## Semaine 3
 ### Affinage des détails visuels et techniques
