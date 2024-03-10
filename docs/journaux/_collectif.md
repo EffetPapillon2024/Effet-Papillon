@@ -38,33 +38,31 @@ Finalement, l'ambiance sonore du projet a été conçu afin d'avoir notre bande 
 ## Semaine 3
 ### Affinage des détails visuels et techniques
 
-La troisième semaine a été une semaine de premiers tests. Pour le côté lié à l'installation, nous avons fait les premiers arrangement sur les keystones des projecteurs afin qu'ils soient semblable au mur et que la projection soit de la bonne taille. L'accrochage des fairylights a également été effectué afin de pouvoir commencer la scénarisation de celle-ci.
-![Test de fairylights](medias/fairylight_accrocher.jpg)
+La troisième semaine a été une semaine de premiers tests. Pour le côté lié à l'installation, nous avons fait les premiers arrangement sur les keystones des projecteurs afin qu'ils soient semblable au mur et que la projection soit de la bonne taille. L'accrochage d'une fairylight a également été effectué afin de pouvoir commencer la scénarisation de celle-ci.
+![Test de fairylights](medias/une_fairylight.jpg)
 
 Les premiers visuels d'essais ont été créés afin de pouvoir programmer et essayer de les ajouter à notre programme dans TouchDesigner. Notre programme qui a d'ailleeurs vu son objet "Delay" remplacer par un "Timer" puisque celui-ci correspond mieux à notre projet. Ce qui nous a permis de connecter notre objet "Timer" avec nos premiers visuels d'essais afin de programmer le tout.
-![Test de fairylights](medias/structure-test.jpg)
+![Test de structure](medias/structure-test.jpg)
 
 Malheureusement, lors de cette semaine, notre coéquipier William Morel a fait une chute lors d'une sortie en extérieur. Il a attrapé une commotion en début de semaine ce qui est venu donner un coup au moral de l'équipe et donc nous a ralenti sur notre projet. 
 
 En conclusion, cette semaine a été plus difficille ce qui ne nous a tout de même pas empêcher de bien commencer les premiers essais avec notre programme. Nous souhaitons à William un bon rétablissement et nous espérons qu'ils reviennent en force la semaine prochaine!
 
 ## Semaine 4
-### Intégration et ajustements finaux
+### Intégration et ajustements
 
-La quatrième semaine a été dédiée à l'intégration des différents éléments du projet et à la réalisation d'ajustements finaux pour parfaire l'expérience :
+La quatrième semaine a été dédiée à l'intégration des différents éléments du projet et à la réalisation d'ajustements pour l'expérience.
 
-- **Recevoir des messages osc envoyés par les m5stack atom :** Des tests ont été effectués pour assurer la réception et la gestion efficace des messages OSC.
-- **Synchronisation des sons dans TouchDesigner avec la machine :** Une synchronisation précise a été établie entre les éléments sonores et le reste de l'installation.
-- **Synchronisation des visuels tests dans TouchDesigner avec la machine :** Les visuels ont été synchronisés avec les autres composantes du projet pour une expérience cohérente.
-- **Synchronisation des lumières/vidéos dans TouchDesigner avec la machine :** Une coordination minutieuse a été réalisée pour assurer l'harmonie entre les différentes sources lumineuses et visuelles.
-- **Organisation du moment final dans TouchDesigner :** Les derniers détails ont été peaufinés pour créer un moment final percutant.
-- **Début de la construction des objets (valve) :** La construction des éléments physiques du projet a commencé pour les intégrer à l'installation.
-- **Réussite sur le fonctionnement de plusieurs fairy lights simultanées :** Des tests concluants ont été réalisés pour garantir le bon fonctionnement des éclairages.
-- **Programmation des esp32 pour rendre les fairy lights addressables :** Les dispositifs lumineux ont été programmés pour permettre leur contrôle individuel.
-- **Accrochage de la moitié des fairy lights :** Une partie des fairy lights a été installée avec soin pour créer l'ambiance lumineuse désirée.
-- **Remplacement du besoin de soudure par des Unit VH3.96 :** Des ajustements ont été apportés pour simplifier le processus de connexion des fairy lights.
+Tout d'abord, du code en arduino a été effectué afin que nos objets envoit des messages en osc et quee l'on puisse les reecevoir dans notre programme dans TouchDesigner. De nouveaux sons et de nouveaux visuels ont également été intégré à notre programme eet aussi les vidéos afin de contrôler les fairylights. L'organisation du moment final a également été programmé.
+![Système connecté-osc](medias/bolduc_semaine4_1.png)
 
-Parallèlement à ces tâches, des progrès significatifs ont été réalisés dans la modélisation et l'impression 3D des éléments du projet, ainsi que dans la création de contenus visuels et sonores. L'équipe a travaillé avec détermination pour atteindre les objectifs fixés et assurer la qualité globale de l'installation.
+L'accrochage de la majorité des fairylights a été effectué. D'ailleurs, nous avons trouver une alternative à la soudure. À la place, nous avons simplement besoin d'utiliser des Unit VH3.96 afin d'asssurer la liaison avec les atom poe. De plus, nous avons rendus les fairylights adressable.
+![Test de fairylights](medias/fairylight_accrocher.jpg)
+
+Pour la séquence de fin projeter sur les murs, nous avons discuter en équipe et effectuer un storyboard afin qu'on soit tous d'accord sur la direction que l'animation allait prendre. Nous avons commencer la modélisation et le rigginf d'un cerf. Les effets ont aussi commeencer à être effectués dans Houdini.
+![Storyboard](../journaux/medias/storyboard.png)
+
+En résumé, la programmation, l'installation et la modélisation de l'installation avance très bien! Nous sommes impatients de continuer le tout la semaine prochaine.
 
 ## Semaine 5
 ### Finalisation et résolution des problèmes
