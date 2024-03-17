@@ -314,7 +314,7 @@ Nous allons peut-être devoir enlever 1 des éléments pour avoir le temps de fi
 - Troubleshooting de la valve
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![slider_02](../journaux/medias/slider_accrocher_02.png)
+![slider_02](../journaux/medias/slider_02.png)
 ![mini_film](../journaux/medias/mini_film.png)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
