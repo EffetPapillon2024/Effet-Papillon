@@ -253,22 +253,27 @@ Cette semaine tout le monde restaient très tard pour travailler donc je suis vr
 - Faires des rendus pour les petits écrans
 ---
 ## Semaine de rattrapage
-### Résumé des réalisations effectuées
-
+### Résumé desréalisations effectuées
+- Création particules projection
+- Test particules avec les projecteurs
+- Test du slider avec la pole
+- Faire des rendus
+- Ménage
+- Achat de matériels
+- Décoration du studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
+![slider](../journaux/medias/slider_accrocher_01.jpg)
+![test_particules](../journaux/medias/test_proj_particules.jpg)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai bien avancé durant cette semaine, mais j'ai pris quelques jours de repos donc je n'ai pas accomplir l'ensemble des tâches que j'aurais voulu. Aussi les rendus ont prit beaucoup de temps donc je n'ai pas pu finir le mini-film ou débuter le montage.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -276,36 +281,50 @@ Cette semaine tout le monde restaient très tard pour travailler donc je suis vr
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons beaucoup de problèmes avec le slider et la valve donc nous ne pouvons pas encore montrer de maquette totalement fonctionnelle. J'aurais voulu avoir une maquette fonctionnelle pour pouvoir troubleshoot les problèmes dans les semaines à venir.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons peut-être devoir enlever 1 des éléments pour avoir le temps de finir le projet.
 
 ### Défis pour la prochaine semaine
-
+- Trouver une solution pour accrocher le slider
+- Finir la colo du mini film
+- Finir le montage du mini film
+- Troubleshoot des problèmes
+- Faire des tests avec le mini film et la projection
+- Faire un ménage du studio et le décorer
+- Ajouter des tubes RGB à l'entrée du studio
+- Trouver une solution pour cacher la régie
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Trouver une solution pour accrocher le slider
+- Colo du mini film
+- Finissions du mini film
+- Trouver des solutions pour l'exportation du mini film
+- Test du mini film avec les projecteurs
+- Ajout de lumière RGB dans l'entrée du studio
+- Ajout d'un rideau pour cacher la régie
+- Ménage du studio
+- Troubleshooting de la valve
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
+![slider_02](../journaux/medias/slider_accrocher_02.png)
+![mini_film](../journaux/medias/mini_film.png)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussi à être productif cette semaine. Je me suis occupé du comité communication, j'ai fini mon montage et j'ai aidé l'équipe à finir leurs tâches. Mon plus gros problème cette semaine était l'exportation du mini film. Pour faire une vidéo en 5760 par 1080 je devais utiliser Premiere pro, je n'avais jamais utilisé ce logiciel donc j'ai eu beaucoup d'erreur de cache lors de mes exportations, mais j'ai trouvé une solution. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -313,18 +332,19 @@ Cette semaine tout le monde restaient très tard pour travailler donc je suis vr
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons beaucoup avancé, mais nous avons dû enlever la valve, car elle ne fonctionnait pas et nous devons remettre un projet complet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+- Faire des troubleshoot si il y a besoin
+- Regarder l'exposition
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
