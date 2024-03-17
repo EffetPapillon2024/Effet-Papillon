@@ -140,7 +140,7 @@ J'aurais voulu faire fonctionner mes lumières simultanément cette semaine mais
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![esp32](../journaux/medias/.jpg)
+![esp32](../journaux/medias/esp32.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -208,33 +208,35 @@ J'ai pris de l'avance sur mes tâches grâce à la solution de Thomas de ne pas 
 
 
 ### Défis pour la prochaine semaine
- Finir l'accrochage des lumières et régler le bug de fairy lights qui deviennent rouge et vert un fois la séquence de mapping complétée.
+ Finir l'accrochage des lumières.
 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Accrochage de l'entiereté des fairy lights
+- Filer les fairy lights dans les tuyaux de caoutchouc pour créer les racines
+- Accrochage des décorations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![decorations](../journaux/medias/decorations.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussi à finir l'installation des lumières ainsi que l'installation des décorations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -246,19 +248,21 @@ J'ai pris de l'avance sur mes tâches grâce à la solution de Thomas de ne pas 
 
 
 ### Défis pour la prochaine semaine
-
+- Régler le bug des fairy lights qui deviennent rouge et verte lorsque la séquence de mapping se termine.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Resoudage de fairy lights brisées
+- Refilage des fairy lights dans les vh3 (la cause du bug)
+- Réinstallation de certaines fairy lights
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![travail](../journaux/medias/travail.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -274,10 +278,10 @@ J'ai pris de l'avance sur mes tâches grâce à la solution de Thomas de ne pas 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [x] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Vu que j'ai du refaire plusieurs choses j'étais un peu démotivée mais j'ai réussi à me remettre sur le bon chemin.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
