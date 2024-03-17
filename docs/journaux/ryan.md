@@ -257,7 +257,7 @@ J'ai réussi à finir l'installation des lumières ainsi que l'installation des 
 - Réinstallation de certaines fairy lights
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![travail](../journaux/medias/travail.jpg)
+![travail](../journaux/medias/travail.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -287,25 +287,32 @@ Vu que j'ai du refaire plusieurs choses j'étais un peu démotivée mais j'ai r�
 
 
 ### Défis pour la prochaine semaine
-
+- Vue que j'ai fini toute mes tâches je vais aider où je le peux.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Installation de la pomme finale sur la corde
+- Ajout de contre-poids dans le mécanisme de la pomme
+- Stabilisation des boitiers pour les interrupteurs
+- Échange d'une fairy lights qui avait le bug des couleurs pour une strip complètement neuve
+- Ménage du studio
+- Redésign du nouveau logo et de la nouvelle bannière
+- Tournage du teaser
+- Montage du teaser
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![montage](../journaux/medias/montage.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Oui, j'ai été capable de compléter plusieurs petites tâches pendant que les autres étaient occupés
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -313,18 +320,18 @@ Vu que j'ai du refaire plusieurs choses j'étais un peu démotivée mais j'ai r�
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y à quelques lacunes au niveau de l'intéraction de la valve.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous devrions peut-être la couper du projet et faire jouer l'intéraction automatiquement.
 
 ### Défis pour la prochaine semaine
-
+Avoir un projet présentable qui ne va pas planter.
 
 ## Semaine 8
 
