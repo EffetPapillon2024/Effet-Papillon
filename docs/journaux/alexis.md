@@ -325,6 +325,22 @@ Pour la dernière semaine, il faut notamment ajouter la séquence final et voir 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
+- Optimiser le patch TouchDesigner
+- Séparer les vidéos pour faciliter le slider
+- Rajouter le fond mauve afin que l’écran soit jamais noir
+- Fixer et assembler le slider
+- Ajout des derniers médias finaux
+- Mapping dans TouchDesigner
+- Groupe des cartels
+- Ajuster les keystones sur lees projecteurs
+- Ranger le studio
+- Installer des lumières dans l’entrée du petit studio
+- Régler les problèmes lier au glitch audio 
+- Création des visuels liés à l’arbre pour la séquence de fin
+- Ajout de la séquence de fin dans le patch TouchDesigner
+- Ajustement de la lumière
+- Ajout de projection lors de l’ensemble de l’expérience qui vient créer une explosion
+- Débug de certains timer en ajoutant un timer après qui les force à aller sur done
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -333,32 +349,32 @@ Pour la dernière semaine, il faut notamment ajouter la séquence final et voir 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai travailler très fort et avancer beaucoup de différentes étapes cette semaine afin de terminer le projet. Les multiples tâches que j'avaient à faire ne m'ont pas empêcher de terminer à temps et de finir l'esemble des tâches que j'avaient à faire que ça soit des nouveaux visuels à intégrer, des bugs à règler ou des objets à fixer.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons réussi à terminer le projet et à rendre un produit très présentable dans les temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+Le défi pour la semaine prochaine est de s'assurer que l'installation est capable de vivre par elle-même. De s'assurer que l'installation puisse être utilisé sans notre présence. Finalement, que les séquences s'enchainent bien, puisse être recommencer à n'importe quel moment et que la boucle recommence par elle-même et ne rencontre aucun problème durant la semaine de présentation.
 
 ## Semaine 8
 
