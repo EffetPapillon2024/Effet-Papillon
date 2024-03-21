@@ -67,23 +67,18 @@ En résumé, la programmation, l'installation et la modélisation de l'installat
 ## Semaine 5
 ### Finalisation et résolution des problèmes
 
-La cinquième semaine a été marquée par la finalisation du projet et la résolution des problèmes restants :
+Pour cette cinquième semaine, nous avons travaillé sur l'ajustement des intéractions et la mise en espace. Aussi, nous avons commencé à intégrer les sons et les visuels finaux dans l'espace. Chacune des personnes de l'équipe ont effectués leurs tâches assignés.
 
-- **Arranger le problème lié au slider :** Des ajustements ont été apportés pour résoudre un problème technique lié au fonctionnement d'un élément du projet.
-- **Fixer les poulies pour le mécanisme de la pomme :** Des travaux de fixation ont été réalisés pour garantir le bon fonctionnement du mécanisme.
-- **Installation de la switch pour les ports internet :** Des éléments matériels ont été installés pour faciliter la connectivité réseau.
-- **Finalisation de réflexion sur le placement de la structure :** Les dernières décisions ont été prises concernant l'emplacement optimal de la structure.
-- **Ajouter le visuel final de la pluie :** Le dernier élément visuel a été intégré pour compléter l'expérience immersive.
-- **Ajout des premiers effets sonores :** Des effets sonores ont été ajoutés pour enrichir l'ambiance audio de l'installation.
-- **Arrangement du son :** Les éléments sonores ont été équilibrés et ajustés pour garantir une expérience audio optimale.
-- **Synchroniser nos lumières en USB avec notre système :** Les sources lumineuses ont été synchronisées avec le reste du système pour une cohérence totale.
-- **Modification de l’assemblage sonore lors de l’expérience :** Des ajustements ont été apportés en temps réel pour optimiser l'expérience sonore.
-- **Test complet de l’ensemble du mécanisme :** Un test complet a été effectué pour vérifier le bon fonctionnement de tous les composants de l'installation.
-- **Test du nouveau visuel de l’arbre :** Le dernier visuel a été testé pour s'assurer de sa conformité aux attentes du projet.
+Pour ce qui est des intéractions, des ajustements ont été apportés pour résoudre un problème technique lié au fonctionnement du slider et de la poulie. Aussi nous avons installé la switch pour les ports internet ce qui facilite la connectivité réseau.
+
+Par ailleurs, nous avons travailler sur la mise en espace final des intéractions pour une optimisations de l'expérience.
+
+Pour finir cette semaine, nous avons ajouter des visuels finaux dans les écrans des RasberryPI, comme la pluie, et nous avons fait des tests des visuels des arbres sur les projecteurs.
 
 Au cours de cette semaine, l'accent a été mis sur la résolution des problèmes de dernière minute et sur l'optimisation de l'ensemble de l'installation. L'équipe a travaillé avec détermination pour atteindre les objectifs fixés et assurer le succès de l'événement.
 
 ## Semaine 6
+
 
 ## Semaine de rattrapage
 
