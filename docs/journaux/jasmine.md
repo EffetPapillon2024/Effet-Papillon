@@ -125,25 +125,29 @@ je n'ai pas fait le plan, car j'ai sous-estimé le temps que ca allait prendre d
 Faire le plan d'ici la semaine prochaine
 
 ### Défis pour la prochaine semaine
-M'assurer que les rideaux de projection soient repassées et aient lair professionnels. trouver une manière de les lier ensemble. faire le plan de mise en espace.
 ---
+
+M'assurer que les rideaux de projection soient repassées et aient lair professionnels. trouver une manière de les lier ensemble. faire le plan de mise en espace.
 ## Semaine 4
 ### Résumé des réalisations effectuées
+Le plan n'a pas été fait, car finalement il n'était pas nécessaire de le refaire.
+Cette semaine j'ai nettoyé la machine à vapeur au vinaigre, puis j'ai repassé les rideaux.
+Ensuite, j'ai commencé à faire de la recherche artistique pour la projection de cerfs.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+[rideaux or smth
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Tout à été fait mais j'aurais aimé avancer un peu plus en 3D
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -151,7 +155,7 @@ M'assurer que les rideaux de projection soient repassées et aient lair professi
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -166,7 +170,10 @@ M'assurer que les rideaux de projection soient repassées et aient lair professi
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Réaccrochage des rideaux pour qu'ils soient ininterrompus.
+- Création des assets d'arbres pour les écrans et rendus des differentes caméras
+- Création de l'effet de particules pour les cerfs et la terre
+- Test pour les rendus de cerfs animés et de la terre (Taille/nombre/couleur des particules)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
