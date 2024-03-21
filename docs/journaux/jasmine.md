@@ -87,7 +87,7 @@ Faire un plan de mise en espace de la structure principale, des lumières, des r
 Faire fonctionner les 2 projecteurs ensemble.
 
 ---
-## Semaine 3 
+## Semaine 3 (5 au 11 février)
 ### Résumé des réalisations effectuées
 - logo terminé.
 - keystones des deux projecteurs pour qu'ils projetent l'image sans l'ombre du pôle au milieu.
@@ -128,7 +128,7 @@ Faire le plan d'ici la semaine prochaine
 ---
 
 M'assurer que les rideaux de projection soient repassées et aient lair professionnels. trouver une manière de les lier ensemble. faire le plan de mise en espace.
-## Semaine 4
+## Semaine 4 (12 au 18 février)
 ### Résumé des réalisations effectuées
 Le plan n'a pas été fait, car finalement il n'était pas nécessaire de le refaire.
 Cette semaine j'ai nettoyé la machine à vapeur au vinaigre, puis j'ai repassé les rideaux.
@@ -168,7 +168,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 5
+## Semaine 5 (19 au 25 février)
 ### Résumé des réalisations effectuées
 - Réaccrochage des rideaux pour qu'ils soient ininterrompus.
 - Création des assets d'arbres pour les écrans et rendus des differentes caméras
@@ -208,7 +208,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine de rattrapage
+## Semaine 6 (26 février au 3 mars)
 ### Résumé des réalisations effectuées
 
 
@@ -245,7 +245,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6
+## Semaine de rattrapage (4 au 10 mars)
 ### Résumé des réalisations effectuées
 
 
@@ -282,7 +282,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 7
+## Semaine 7 (11 au 17 mars)
 ### Résumé des réalisations effectuées
 
 
@@ -319,7 +319,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 
-## Semaine 8
+## Semaine 8 (18 au 23 mars)
 
 
 ## Semaine 9
