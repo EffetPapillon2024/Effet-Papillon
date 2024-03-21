@@ -181,7 +181,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -194,7 +194,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -218,7 +218,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -231,7 +231,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -255,7 +255,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -268,7 +268,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -284,15 +284,17 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ---
 ## Semaine 7 (11 au 17 mars)
 ### Résumé des réalisations effectuées
-
-
+- création et rendu des pommes
+- création et rendu de la pluie
+- Re-création du cerf, car le résultat n'était pas de beauté optimale (crissement laid)
+- Rendus finaux de la terre et de l'eau
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -305,7 +307,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
