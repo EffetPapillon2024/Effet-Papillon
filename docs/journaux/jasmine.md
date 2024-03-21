@@ -210,7 +210,11 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ---
 ## Semaine 6 (26 février au 3 mars)
 ### Résumé des réalisations effectuées
-
+- Re-création de l'arbre
+- Ajout des effets sur les rendus de l'arbre
+- Création et animation de l'herbe.
+- Test sur l'ajout des effets à l'animation de l'eau
+- Test général de la scène.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -247,7 +251,8 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ---
 ## Semaine de rattrapage (4 au 10 mars)
 ### Résumé des réalisations effectuées
-
+- Tous les rendus
+- Tests de colorimétrie des rendus.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
