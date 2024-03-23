@@ -182,6 +182,10 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ![geo](/docs/journaux/medias/lapierre_s5_geo.png) 
 
 
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/4398d8e0-336b-455b-833b-76614fbb5246
+
+
 https://github.com/Iteration6/Effet-Papillon/assets/89647613/852943c3-3269-4cc5-a80f-34b69eecf937
 
 
@@ -222,10 +226,21 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/63c9a871-7e18-4c94-
 - Re-création des assets 3D de l'arbre pour les animations sur les écrans de la structure.
 - Ajout des effets sur les rendus de l'arbre.
 - Création et animation de l'herbe.
-- Test sur l'ajout des effets à l'animation de l'eau.
+- Test sur l'ajout de l'eau à la terre.
 - Tests généraux de la scène 3D.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+
+![geo_eau](/docs/journaux/medias/lapierre_s6_geo_eau.png) 
+
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/bf72103c-f96c-4ee3-bd1c-17157b416acc
+
+
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-87ca-5476aebb8a4a
+
 
 
 
