@@ -93,6 +93,16 @@ Finalement, nous avons ajouter un feedback lorsque les objets sont utilisés au 
 
 ## Semaine 7
 
+Comme prévu, la dernière semaine de travail a été plutôt chargé.
+
+Tout d'abord, plusieurs modifications ont été effectués suite aux commentaires de l'équipe sur le court-métrage de la fin, et le son qui l'accompagne. Nous avons aussi ajouter et finaliser tout ce qui est en lien avec la séquence de fin afin de l'intégrer à notre système. Nous avons également intégrer la version finale des particules projetés lors de l'expérience.
+
+Pour le côté plus physique, nous avons dû rajouter du contrepoids sur notre système de poulie suite à l'ajout de la pomme. Nous avons dû stabiliser les interrupteeurs et créer une nouvelle valve. 
+
+Certains problèmes techniques ont été résolues comme les glitchs audio et le mapping que nous avons décider de faire directement dans TouchDesigner.
+
+Finalement, un grand ménage du petit studio, l'installation d'un rideau afin de cacher la régie et des lumières à l'entrée du studio nous as permis de rendre le tout très propre et présentable pour les présentations.
+
 ## Semaine 8
 
 ## Semaine 9
