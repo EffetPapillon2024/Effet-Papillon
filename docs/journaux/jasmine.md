@@ -87,7 +87,7 @@ Faire un plan de mise en espace de la structure principale, des lumières, des r
 Faire fonctionner les 2 projecteurs ensemble.
 
 ---
-## Semaine 3 (5 au 11 février)
+## Semaine 3 
 ### Résumé des réalisations effectuées
 - logo terminé.
 - keystones des deux projecteurs pour qu'ils projetent l'image sans l'ombre du pôle au milieu.
@@ -95,7 +95,7 @@ Faire fonctionner les 2 projecteurs ensemble.
 - Liste de tous les medias à creer + issues assignées
 - Liste d'éléments à mettre dans le plan de mise en espace (nombre et longueur des lumieres, repartition des interactions dans la salle etc.)
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![budget](/docs/journaux/medias/lapierre_s3_budget.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -128,15 +128,16 @@ Faire le plan d'ici la semaine prochaine
 ---
 
 M'assurer que les rideaux de projection soient repassées et aient lair professionnels. trouver une manière de les lier ensemble. faire le plan de mise en espace.
-## Semaine 4 (12 au 18 février)
+## Semaine 4
 ### Résumé des réalisations effectuées
 Le plan n'a pas été fait, car finalement il n'était pas nécessaire de le refaire.
 Cette semaine j'ai nettoyé la machine à vapeur au vinaigre, puis j'ai repassé les rideaux.
-Ensuite, j'ai commencé à faire de la recherche artistique pour la projection de cerfs.
+Ensuite, j'ai commencé à faire de la recherche artistique pour la projection de cerfs et j'ai participé à la rencontre d'équipe pour le synopsis du mini film.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-[rideaux or smth
+![rideaux](/docs/journaux/medias/lapierre_s4_rideaux.jpg) 
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -168,15 +169,23 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 5 (19 au 25 février)
+## Semaine 5
 ### Résumé des réalisations effectuées
 - Réaccrochage des rideaux pour qu'ils soient ininterrompus.
-- Création des assets d'arbres pour les écrans et rendus des differentes caméras
+- Création des assets d'arbres pour les écrans et rendus des 8 caméras
 - Création de l'effet de particules pour les cerfs et la terre
 - Test pour les rendus de cerfs animés et de la terre (Taille/nombre/couleur des particules)
-
+- Création et rendu de l'explosion.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![cerfs](/docs/journaux/medias/lapierre_s5_cerfs.png) 
+![geo](/docs/journaux/medias/lapierre_s5_geo.png) 
+
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/852943c3-3269-4cc5-a80f-34b69eecf937
+
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/63c9a871-7e18-4c94-bba0-653854b459b7
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -208,13 +217,13 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6 (26 février au 3 mars)
+## Semaine 6
 ### Résumé des réalisations effectuées
-- Re-création de l'arbre
-- Ajout des effets sur les rendus de l'arbre
+- Re-création des assets 3D de l'arbre pour les animations sur les écrans de la structure.
+- Ajout des effets sur les rendus de l'arbre.
 - Création et animation de l'herbe.
-- Test sur l'ajout des effets à l'animation de l'eau
-- Test général de la scène.
+- Test sur l'ajout des effets à l'animation de l'eau.
+- Tests généraux de la scène 3D.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -249,10 +258,11 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine de rattrapage (4 au 10 mars)
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 - Tous les rendus
-- Tests de colorimétrie des rendus.
+- Montage pour les projections.
+- Tests de colorimétrie des rendus / montage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -287,7 +297,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 7 (11 au 17 mars)
+## Semaine 7
 ### Résumé des réalisations effectuées
 - création et rendu des pommes
 - création et rendu de la pluie
