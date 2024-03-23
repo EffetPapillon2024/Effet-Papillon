@@ -280,7 +280,7 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 - Tests de colorimétrie des rendus / montage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![geo_eau](/docs/journaux/medias/lapierre_sr_minifilm.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
