@@ -214,9 +214,9 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/63c9a871-7e18-4c94-
 
 #### S'il y a des écarts, décrivez-les.
 
-
+L'animation de l'eau devra être refaite, car elle est trop forte et l'eau engloutit la terre avant de remplir le lac.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Demander à will de refaire l'eau
 
 ### Défis pour la prochaine semaine
 
@@ -266,9 +266,9 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 
 #### S'il y a des écarts, décrivez-les.
 
-
+je n'ai toujours pas l'eau  
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+demander l'eau
 
 ### Défis pour la prochaine semaine
 
@@ -304,10 +304,10 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je n'ai jamais reçu la nouvelle animation de l'eau alors le minifilm devra être changé car il ne pourra plus être en couches.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Au lieu d'être en couches (chaque cycle complet de la structure était supposé rajouter une couche à la projection, terre qui apparait -> eau qui coule dans le lac -> gazon -> arbres - > pomme), la video sera tout simplement jouée en fond sans apparition de la géo et des autres éléments.
 
 ### Défis pour la prochaine semaine
 
@@ -362,7 +362,6 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/5d212dc7-f32c-4780-
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
