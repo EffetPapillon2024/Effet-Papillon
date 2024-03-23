@@ -78,7 +78,11 @@ Pour finir cette semaine, nous avons ajouter des visuels finaux dans les écrans
 Au cours de cette semaine, l'accent a été mis sur la résolution des problèmes de dernière minute et sur l'optimisation de l'ensemble de l'installation. L'équipe a travaillé avec détermination pour atteindre les objectifs fixés et assurer le succès de l'événement.
 
 ## Semaine 6
+La sixième semaine a été une semaine lors dee laquelle nous avons commencé à voir le résultat final venir. Nous avons également fait plusieurs corrections. Au niveau des visuels, nous avons fait des rendus de l'arbre afin de et de l'herbe afin de pouvoir les tester au niveau de la projection. La projection de particule qui vient créer l'explosion a également été créer et tester avec les projecteurs. Nous avons également pensé et créer de nouveaux visuels afin de diffuser davantage de vidéos sur nos écrans.
 
+Pour le côté teechnique, nous avons installer et programmer avec le système les lumières DMX qui permettent d'indiquer la prochaine étape. Nous avons réorganiser les écrans installés sur la pôle. Nous avons également reefait les keystones suite à l'installation des rideaux qui ont été fait cette semaine. Le système de redémarrage lorsque l'installation reste 5 minutes à une étape.
+
+Finalement, les fairy lights ont entièrement été accrochés et filés dans les tuyaux de caoutchouc. Les décorations reçus ont également été posées.
 
 ## Semaine de rattrapage
 
