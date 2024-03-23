@@ -94,7 +94,7 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 - Terminé le set-up du système sonore.
 - Faire des tests avec bruits de fond ambient pour tester le système sonore.
 - Commencé à créer les objets sonores.
-- Terminé la création de la banière finale.
+- Terminé la création de la banière animée finale.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -111,25 +111,18 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/f16cf911-d06e-4c4c-
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Les 4 speakers fonctionnent bien, la banière a été terminé avec les changements desirés et a été optimisée. Les couches sont bien mixées.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Travailler sur les objets sonores.
+- Terminer au moins un objet sonore.
 
 ---
 ## Semaine 4
