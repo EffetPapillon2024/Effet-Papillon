@@ -344,7 +344,7 @@ Pour la dernière semaine, il faut notamment ajouter la séquence final et voir 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Installation final](medias/bolduc_semaine7.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
