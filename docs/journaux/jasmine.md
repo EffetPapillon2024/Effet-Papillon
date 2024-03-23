@@ -325,6 +325,19 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![geo_eau](/docs/journaux/medias/lapierre_s7_pluie.png) 
+![geo_eau](/docs/journaux/medias/lapierre_s7_pomme.png) 
+![geo_eau](/docs/journaux/medias/lapierre_s7_proposition.png) 
+![geo_eau](/docs/journaux/medias/lapierre_s7_arbre.png) 
+![geo_eau](/docs/journaux/medias/lapierre_s7_arbre2.png) 
+
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/fb29a6e5-939a-4b3f-b402-35a52c0a688d
+
+
+
+https://github.com/Iteration6/Effet-Papillon/assets/89647613/5d212dc7-f32c-4780-b7c7-8e0b8ec3e208
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
