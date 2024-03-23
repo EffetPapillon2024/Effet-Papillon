@@ -325,11 +325,12 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![geo_eau](/docs/journaux/medias/lapierre_s7_pluie.png) 
-![geo_eau](/docs/journaux/medias/lapierre_s7_pomme.png) 
+Nouveau concept plus 2D:
 ![geo_eau](/docs/journaux/medias/lapierre_s7_proposition.png) 
-![geo_eau](/docs/journaux/medias/lapierre_s7_arbre.png) 
-![geo_eau](/docs/journaux/medias/lapierre_s7_arbre2.png) 
+![pluie](/docs/journaux/medias/lapierre_s7_pluie.png) 
+![pomme](/docs/journaux/medias/lapierre_s7_pomme.png) 
+![arbre en particules avec trail](/docs/journaux/medias/lapierre_s7_arbre.png) 
+![arbre2 en particules sans trail](/docs/journaux/medias/lapierre_s7_arbre2.png) 
 
 
 https://github.com/Iteration6/Effet-Papillon/assets/89647613/fb29a6e5-939a-4b3f-b402-35a52c0a688d
