@@ -370,6 +370,6 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/5d212dc7-f32c-4780-
 
 
 ## Semaine 8 (18 au 23 mars)
-
+J'étais là sauf lorsque j'étais pas là car j'étais malade ou quelque chose dans le genre.
 
 ## Semaine 9
