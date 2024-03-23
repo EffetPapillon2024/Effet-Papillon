@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Reconcepté le projet avec mon équipe pour aboutir à une idée finale.
+- Reconceptualisé le projet avec mon équipe pour aboutir à une idée finale.
 - Conceptualisé le système sonore.
 - Planifié les sons qui seront utilisés dans le projet.
 - Recherché de l'inspiration musicale adaptée au projet.
@@ -91,21 +91,27 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Terminé le set-up du système sonore.
+- Création de bruits de fond ambient pour tester le système sonore.
+- Commencé à créer les objets sonores.
+- Terminé la création de la banière finale.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![systeme_sonore](medias/premier_systeme_sonore.mp4)
+
+https://github.com/Iteration6/Effet-Papillon/assets/89608462/f16cf911-d06e-4c4c-bfcd-b1e1bf5ce3c0
+
+![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/7dcf7a4f-6153-441b-99d2-bffd1176ed0a)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
