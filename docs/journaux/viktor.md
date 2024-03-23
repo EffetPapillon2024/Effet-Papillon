@@ -92,7 +92,7 @@ Commencer à créer des objets sonores pour le projet, experimenter avec ambianc
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Terminé le set-up du système sonore.
-- Création de bruits de fond ambient pour tester le système sonore.
+- Faire des tests avec bruits de fond ambient pour tester le système sonore.
 - Commencé à créer les objets sonores.
 - Terminé la création de la banière finale.
 
