@@ -85,6 +85,11 @@ Pour le côté teechnique, nous avons installer et programmer avec le système l
 Finalement, les fairy lights ont entièrement été accrochés et filés dans les tuyaux de caoutchouc. Les décorations reçus ont également été posées.
 
 ## Semaine de rattrapage
+Pour la semaine de rattrapage, nous avons fini tous les visuels liés au écrans afin  qu'ils aient tous une cohérence et nous les avons ajoutés au système dans TouchDesigner. Pour la séquence de fin, le court-métrage a eu des finissions ainsi que la coloristaion a été effectuée. Puis, le résultat a été testé sur les projecteurs.
+
+Pour les objets, nous avons trouvé une solution pour rendre stable le slider sans que celui-ci soit relié à la structure principale. Les ampoules et les light switch ont été positionné, finalisé et programmer. Certaines fairy lights ont eu beesoin de modifications du à certains problèmes.
+
+Finalement, nous avons ajouter un feedback lorsque les objets sont utilisés au mauvais moment. Il ne nous reste qu'une seule semaine alors la semaine prochaine sera probablement chargé pour l'équipe!
 
 ## Semaine 7
 
