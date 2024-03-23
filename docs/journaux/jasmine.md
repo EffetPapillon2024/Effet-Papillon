@@ -275,8 +275,8 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-- Tous les rendus
-- Montage pour les projections.
+- fin de tous les rendus
+- Montage du mini-film.
 - Tests de colorimétrie des rendus / montage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -314,10 +314,15 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-- création et rendu des pommes
-- création et rendu de la pluie
+- finir le montage du mini film et colo
+- réaliser que c'est vraiment laid comme composition visuelle sur des projections
+- nouvelle conception du minifilm final en style plus 2D
+- création et rendu des pommes pour la projection.
+- création et rendu de la pluie pour la projection.
+- création et rendus de 3 nouveaux arbres pour la projection.
 - Re-création du cerf, car le résultat n'était pas de beauté optimale (crissement laid)
 - Rendus finaux de la terre et de l'eau
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
