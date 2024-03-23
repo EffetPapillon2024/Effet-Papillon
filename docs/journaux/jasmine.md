@@ -167,6 +167,9 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 
 ### Défis pour la prochaine semaine
+- réaccrocher les rideaux car il y a un espace entre deux rideaux.
+- faire assets de l'arbre qui pousse pour la structure.
+- créer l'effet de particules pour les cerfs et la terre
 
 ---
 ## Semaine 5
@@ -215,8 +218,10 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/63c9a871-7e18-4c94-
 #### S'il y a des écarts, décrivez-les.
 
 L'animation de l'eau devra être refaite, car elle est trop forte et l'eau engloutit la terre avant de remplir le lac.
+À ce qui parait on ne pourra pas utiliser une ferme de rendu par manque de budget. Je doute de la faisabilité du projet.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Demander à will de refaire l'eau
+Demander à will de refaire l'eau et faire des nuits blanches de travail pour économiser 30$ en rendus ou quelque chose dans le genre (suicide).
 
 ### Défis pour la prochaine semaine
 
@@ -266,9 +271,10 @@ https://github.com/Iteration6/Effet-Papillon/assets/89647613/3228cd38-1a4a-4aed-
 
 #### S'il y a des écarts, décrivez-les.
 
-je n'ai toujours pas l'eau  
+je n'ai toujours pas l'eau.
+Finalement Raphael me prête son ordis pour faire des rendus yippie! (ca augmente presque pas la vitesse mais au moins je peux écouter de la musique en même temps sans me sentir mal et l'équipe pense que ça va plus vite alors ça les motive)
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-demander l'eau
+demander l'eau 
 
 ### Défis pour la prochaine semaine
 
@@ -305,6 +311,7 @@ demander l'eau
 
 #### S'il y a des écarts, décrivez-les.
 Je n'ai jamais reçu la nouvelle animation de l'eau alors le minifilm devra être changé car il ne pourra plus être en couches.
+Raphael me prête son ordis pour faire les rendus yippie!
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Au lieu d'être en couches (chaque cycle complet de la structure était supposé rajouter une couche à la projection, terre qui apparait -> eau qui coule dans le lac -> gazon -> arbres - > pomme), la video sera tout simplement jouée en fond sans apparition de la géo et des autres éléments.
