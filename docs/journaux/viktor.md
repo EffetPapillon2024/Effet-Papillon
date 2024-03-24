@@ -136,6 +136,7 @@ Les 4 speakers fonctionnent bien, la banière a été terminé avec les changeme
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/8c3330e7-2776-4675-a330-8fb856ecaf86)
+![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/2869e524-43dc-46f3-8dc1-79d6f4cc9aa4)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
