@@ -141,31 +141,24 @@ Les 4 speakers fonctionnent bien, la banière a été terminé avec les changeme
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai crée la composition sonore pour la video de presentation, ainsi travaillé sur les sons d'interaction. Les sons sont maitenant dans le drive en ligne est mes cooéquipiers peuvent l'accèder en ligne.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Créer plus de sons
+- 
 
 ---
 ## Semaine 5
