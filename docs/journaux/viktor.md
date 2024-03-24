@@ -127,10 +127,15 @@ Les 4 speakers fonctionnent bien, la banière a été terminé avec les changeme
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Création de fichier One Drive pour les sons.
+- Publication de fichiers en ligne.
+- Création et mixage des objets sonores.
+- Création de la piste sonore pour la video de presentation.
+- Modification du système sonore.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![image](https://github.com/Iteration6/Effet-Papillon/assets/89608462/8c3330e7-2776-4675-a330-8fb856ecaf86)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
