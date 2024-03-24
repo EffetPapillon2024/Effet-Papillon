@@ -81,7 +81,7 @@ Au cours de cette semaine, l'accent a été mis sur la résolution des problème
 La sixième semaine a été une semaine lors dee laquelle nous avons commencé à voir le résultat final venir. Nous avons également fait plusieurs corrections. Au niveau des visuels, nous avons fait des rendus de l'arbre afin de et de l'herbe afin de pouvoir les tester au niveau de la projection. La projection de particule qui vient créer l'explosion a également été créer et tester avec les projecteurs. Nous avons également pensé et créer de nouveaux visuels afin de diffuser davantage de vidéos sur nos écrans.
 ![geo_eau](/docs/journaux/medias/lapierre_s6_geo_eau.png)
 
-Pour le côté teechnique, nous avons installer et programmer avec le système les lumières DMX qui permettent d'indiquer la prochaine étape. Nous avons réorganiser les écrans installés sur la pôle. Nous avons également reefait les keystones suite à l'installation des rideaux qui ont été fait cette semaine. Le système de redémarrage lorsque l'installation reste 5 minutes à une étape.
+Pour le côté teechnique, nous avons installer et programmer avec le système les lumières DMX qui permettent d'indiquer la prochaine étape. Nous avons réorganiser les écrans installés sur la pôle. Nous avons également refait les keystones suite à l'installation des rideaux qui ont été fait cette semaine. Le système de redémarrage lorsque l'installation reste 5 minutes à une étape.
 ![DMX](medias/dmx.png)
 
 Finalement, les fairy lights ont entièrement été accrochés et filés dans les tuyaux de caoutchouc. Les décorations reçues ont également été posées.
