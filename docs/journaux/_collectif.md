@@ -79,15 +79,19 @@ Au cours de cette semaine, l'accent a été mis sur la résolution des problème
 
 ## Semaine 6
 La sixième semaine a été une semaine lors dee laquelle nous avons commencé à voir le résultat final venir. Nous avons également fait plusieurs corrections. Au niveau des visuels, nous avons fait des rendus de l'arbre afin de et de l'herbe afin de pouvoir les tester au niveau de la projection. La projection de particule qui vient créer l'explosion a également été créer et tester avec les projecteurs. Nous avons également pensé et créer de nouveaux visuels afin de diffuser davantage de vidéos sur nos écrans.
+![geo_eau](/docs/journaux/medias/lapierre_s6_geo_eau.png)
 
 Pour le côté teechnique, nous avons installer et programmer avec le système les lumières DMX qui permettent d'indiquer la prochaine étape. Nous avons réorganiser les écrans installés sur la pôle. Nous avons également reefait les keystones suite à l'installation des rideaux qui ont été fait cette semaine. Le système de redémarrage lorsque l'installation reste 5 minutes à une étape.
+![DMX](medias/dmx.png)
 
-Finalement, les fairy lights ont entièrement été accrochés et filés dans les tuyaux de caoutchouc. Les décorations reçus ont également été posées.
+Finalement, les fairy lights ont entièrement été accrochés et filés dans les tuyaux de caoutchouc. Les décorations reçues ont également été posées.
 
 ## Semaine de rattrapage
 Pour la semaine de rattrapage, nous avons fini tous les visuels liés au écrans afin  qu'ils aient tous une cohérence et nous les avons ajoutés au système dans TouchDesigner. Pour la séquence de fin, le court-métrage a eu des finissions ainsi que la coloristaion a été effectuée. Puis, le résultat a été testé sur les projecteurs.
+![colorisation mini-film](/docs/journaux/medias/lapierre_sr_minifilm.png) 
 
 Pour les objets, nous avons trouvé une solution pour rendre stable le slider sans que celui-ci soit relié à la structure principale. Les ampoules et les light switch ont été positionné, finalisé et programmer. Certaines fairy lights ont eu beesoin de modifications du à certains problèmes.
+![slider](../journaux/medias/slider_accrocher_01.jpg)
 
 Finalement, nous avons ajouter un feedback lorsque les objets sont utilisés au mauvais moment. Il ne nous reste qu'une seule semaine alors la semaine prochaine sera probablement chargé pour l'équipe!
 
@@ -96,8 +100,10 @@ Finalement, nous avons ajouter un feedback lorsque les objets sont utilisés au 
 Comme prévu, la dernière semaine de travail a été plutôt chargé.
 
 Tout d'abord, plusieurs modifications ont été effectués suite aux commentaires de l'équipe sur le court-métrage de la fin, et le son qui l'accompagne. Nous avons aussi ajouter et finaliser tout ce qui est en lien avec la séquence de fin afin de l'intégrer à notre système. Nous avons également intégrer la version finale des particules projetés lors de l'expérience.
+![test_particules](../journaux/medias/test_proj_particules.jpg)
 
-Pour le côté plus physique, nous avons dû rajouter du contrepoids sur notre système de poulie suite à l'ajout de la pomme. Nous avons dû stabiliser les interrupteeurs et créer une nouvelle valve. 
+Pour le côté plus physique, nous avons dû rajouter du contrepoids sur notre système de poulie suite à l'ajout de la pomme. Nous avons dû stabiliser les interrupteurs et créer une nouvelle valve. 
+![Inteerrupteurs](medias/interrupteur.jpg)
 
 Certains problèmes techniques ont été résolues comme les glitchs audio et le mapping que nous avons décider de faire directement dans TouchDesigner.
 
