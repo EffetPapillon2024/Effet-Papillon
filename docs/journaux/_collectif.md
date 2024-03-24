@@ -91,7 +91,7 @@ Pour la semaine de rattrapage, nous avons fini tous les visuels liés au écrans
 ![colorisation mini-film](/docs/journaux/medias/lapierre_sr_minifilm.png) 
 
 Pour les objets, nous avons trouvé une solution pour rendre stable le slider sans que celui-ci soit relié à la structure principale. Les ampoules et les light switch ont été positionné, finalisé et programmer. Certaines fairy lights ont eu beesoin de modifications du à certains problèmes.
-![slider](../journaux/medias/slider_accrocher_01.jpg)
+![slider_02](../journaux/medias/slider_02.jpg)
 
 Finalement, nous avons ajouter un feedback lorsque les objets sont utilisés au mauvais moment. Il ne nous reste qu'une seule semaine alors la semaine prochaine sera probablement chargé pour l'équipe!
 
