@@ -193,12 +193,14 @@ L'ordinateur n'est plus dans le studio mais la régie, les bugs sonores étaient
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Il y a avait un délais car j'avais besoin d'une connection mâle à mâle pour connecter les speakers du milieu. 
+Il y avait un délais car j'avais besoin d'une connection mâle à mâle pour connecter les speakers du milieu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai demandé aux TTP s'ils ont ce type de adaptateur, puis Antoine à trouvé un (Merci Antoine).
 
 ### Défis pour la prochaine semaine
+- Avancer les objets sonores pour les interactions.
+- Commencer à créer des effets sonores pour la cinematique du fin.
 
 ---
 ## Semaine de rattrapage
