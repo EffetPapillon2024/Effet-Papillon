@@ -157,40 +157,43 @@ J'ai crée la composition sonore pour la video de presentation, ainsi travaillé
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-- Créer plus de sons
-- 
+- Concentrer sur la création des objets sonores.
+- Aider à l'équipe au besoin.
 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- Faire passer le système sonore par la regie  et sale de matrices.
+- Règler les problèmes avec le son.
+- Créer plusieurs objets sonores.
+- Ajouter des effets visuels pour l'explosion.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![PXL_20240322_005937982](https://github.com/Iteration6/Effet-Papillon/assets/89608462/9353656c-e342-4a66-9b78-0f2d39d2ea1a)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+L'ordinateur n'est plus dans le studio mais la régie, les bugs sonores étaient fixés par utlisant le Pyle pour balancer la connection et les nouveaux sons crées sonnent bien.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a avait un délais car j'avais besoin d'une connection mâle à mâle pour connecter les speakers du milieu. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
