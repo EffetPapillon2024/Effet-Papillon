@@ -95,7 +95,7 @@ Faire fonctionner les 2 projecteurs ensemble.
 - Liste de tous les medias à creer + issues assignées
 - Liste d'éléments à mettre dans le plan de mise en espace (nombre et longueur des lumieres, repartition des interactions dans la salle etc.)
 ### Image d'une réalisation dont tu es la ou le plus fier
-![budget](/docs/journaux/medias/lapierre_s3_budget.png) 
+![budget](medias/lapierre_s3_budget.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -136,7 +136,7 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![rideaux](/docs/journaux/medias/lapierre_s4_rideaux.jpg) 
+![rideaux](medias/lapierre_s4_rideaux.jpg) 
 
 
 
@@ -181,8 +181,8 @@ Ensuite, j'ai commencé à faire de la recherche artistique pour la projection d
 - Création et rendu de l'explosion.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![cerfs](/docs/journaux/medias/lapierre_s5_cerfs.png) 
-![geo](/docs/journaux/medias/lapierre_s5_geo.png) 
+![cerfs](medias/lapierre_s5_cerfs.png) 
+![geo](medias/lapierre_s5_geo.png) 
 
 
 
@@ -237,7 +237,7 @@ Demander à will de refaire l'eau et faire des nuits blanches de travail pour é
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
-![geo_eau](/docs/journaux/medias/lapierre_s6_geo_eau.png) 
+![geo_eau](medias/lapierre_s6_geo_eau.png) 
 
 
 https://github.com/Iteration6/Effet-Papillon/assets/89647613/bf72103c-f96c-4ee3-bd1c-17157b416acc
@@ -286,7 +286,7 @@ demander l'eau
 - Tests de colorimétrie des rendus / montage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![geo_eau](/docs/journaux/medias/lapierre_sr_minifilm.png) 
+![geo_eau](medias/lapierre_sr_minifilm.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -333,11 +333,11 @@ Au lieu d'être en couches (chaque cycle complet de la structure était supposé
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 Nouveau concept plus 2D:
-![geo_eau](/docs/journaux/medias/lapierre_s7_proposition.png) 
-![pluie](/docs/journaux/medias/lapierre_s7_pluie.png) 
-![pomme](/docs/journaux/medias/lapierre_s7_pomme.png) 
-![arbre en particules avec trail](/docs/journaux/medias/lapierre_s7_arbre.png) 
-![arbre2 en particules sans trail](/docs/journaux/medias/lapierre_s7_arbre2.png) 
+![geo_eau](medias/lapierre_s7_proposition.png) 
+![pluie](medias/lapierre_s7_pluie.png) 
+![pomme](medias/lapierre_s7_pomme.png) 
+![arbre en particules avec trail](medias/lapierre_s7_arbre.png) 
+![arbre2 en particules sans trail](medias/lapierre_s7_arbre2.png) 
 
 
 https://github.com/Iteration6/Effet-Papillon/assets/89647613/fb29a6e5-939a-4b3f-b402-35a52c0a688d
