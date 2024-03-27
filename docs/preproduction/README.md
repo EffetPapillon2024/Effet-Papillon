@@ -103,7 +103,7 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
-![Plantation]([medias/stl_structure.stl](https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png)
+![Plantation](https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png)
 
 [Structure 3D](https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/stl_structure.stl)
 
@@ -113,26 +113,26 @@ https://github.com/Iteration6/Effet-Papillon/assets/89608462/4d30ae9a-bb31-4387-
 
 
 ## Matériel de scénographie requis
-[Tableau des matériaux de scénographie](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=mn5vNf)
+[Tableau des matériaux de scénographie](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=7OA1ux)
 
 ## Équipements requis
-[Tableau liste de l'équipements requis](https://cmontmorency365.sharepoint.com/:x:/s/Section_H24_58266BMO-000001/EVP1QJMkN7pPrGMw1pMz5YsBDX4EmcTYr-UmgDXCN3vlag?e=6aHMnE)
+[Tableau liste de l'équipements requis](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=679Jc9)
 
 
 ## Logiciels requis
-[Tableaul logiciels requis](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=BAI3Eo)
+[Tableaul logiciels requis](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=xcTa79)
 
 ## Ressources humaines requises
-[Tableau ressources humaines requises](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=MH4cKd)
+[Tableau ressources humaines requises](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=rwczPj)
 
 ## Ressources spatiales requises (rangement et locaux)
-[Tableau spécifications des espaces nécessaires](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=UuQ6EW)
+[Tableau spécifications des espaces nécessaires](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=bMesuB)
 ## Contraintes techniques et potentiels problèmes de production
-[Tableau contraintes techniques](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=W2hwoA)
+[Tableau contraintes techniques](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=GA2YHp)
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2173985_cmontmorency_qc_ca/EZY_Iv-CmkZIh3kk9d_kdA0BEIEJu3DnZJjUHeelg61Qaw?e=tqlFBW)
+[Lien vers document](https://1drv.ms/x/s!AqmIWBFvcfeZa7h3auzN-XlN1XY?e=BpJs5p)
 
 
 ## Échéancier global
@@ -176,6 +176,7 @@ Liste des tâches dans Git Hub:
 
 **William Morel**
 - Comité Technique et coordination technique (suivi du devis technique);
+- Artiste 3D;
 - Intégrateur (imaginer, créer et mettre en place les éléments de la scène.)
 
 Liste des tâches dans Git Hub:  
@@ -206,7 +207,9 @@ Liste des tâches dans Git Hub:
 [Project](https://github.com/orgs/RealiteCroisee/projects/1/views/1?filterQuery=assignee%3AAPapanik09)
 
 **Jasmine Lapierre**
-- Intégrateur (imaginer, créer et mettre en place les décors sur la scène);
+- Artiste 3D;
+- Intégratrice de la mise en espace (imaginer, créer et mettre en place les décors sur la scène);
+
 
 Liste des tâches dans Git Hub:  
 [Issues](https://github.com/RealiteCroisee/Projet-Finissant-Realite-Croisee/issues?q=is%3Aopen+assignee%3AJasmine-Lapierre)
@@ -318,12 +321,12 @@ Discuter entre interacteurs des différentes étapes de croissance représentée
 Effectuer les étapes une après l'autre
 
 ### Logo de l’équipe 
-![Cartographie](medias/logo.png)
+![Cartographie](medias/logo_2.png)
 
  
 
 ### Bannière de l’équipe 
-![Cartographie](medias/banniere.png)
+![Cartographie](medias/banniere_2.png)
 
  
 
