@@ -321,12 +321,12 @@ Discuter entre interacteurs des différentes étapes de croissance représentée
 Effectuer les étapes une après l'autre
 
 ### Logo de l’équipe 
-![Cartographie](medias/logo_2.png)
+![Logo](medias/logo_2.png)
 
  
 
 ### Bannière de l’équipe 
-![Cartographie](medias/banniere_2.png)
+![Bannière](medias/banniere_2.jpg)
 
  
 
